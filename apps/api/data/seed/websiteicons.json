@@ -3,7 +3,7 @@
     "_id": "69d0da1840ce3f7c7a0285e4",
     "name": "Main Logo",
     "key": "main_logo",
-    "imageUrl": "https://ik.imagekit.io/bf62vomqy/sellzy/websiteIcons/main_logo_D4eKDQebH.png",
+    "imageUrl": "/seed-images/websiteIcons/main_logo_D4eKDQebH.png",
     "description": "",
     "category": "header",
     "isActive": true,

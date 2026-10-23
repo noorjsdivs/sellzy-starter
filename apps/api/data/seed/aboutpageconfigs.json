@@ -31,8 +31,8 @@
     "updatedAt": "2026-03-10T18:52:55.311Z",
     "__v": 3,
     "updatedBy": "698a10c634894205d2072308",
-    "heroImage": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/heroImage_NAGswSCa5.jpg",
-    "heroImageSmall": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/heroImageSmall_vkcvLtQ02.png",
+    "heroImage": "/seed-images/about-page/heroImage_NAGswSCa5.jpg",
+    "heroImageSmall": "/seed-images/about-page/heroImageSmall_vkcvLtQ02.png",
     "features": [
       {
         "title": "Faster Free Delivery",
@@ -43,8 +43,8 @@
           "Reliable Delivery Partners: We’ve partnered with trusted couriers to ensure your packages",
           "Weekend & Evening Delivery: Get your items when it's most convenient for you."
         ],
-        "imageOne": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-1-imageOne_TQk6rWbg_.png",
-        "imageTwo": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-1-imageTwo_rl2loQhcR.jpg",
+        "imageOne": "/seed-images/about-page/feature-1-imageOne_TQk6rWbg_.png",
+        "imageTwo": "/seed-images/about-page/feature-1-imageTwo_rl2loQhcR.jpg",
         "_id": "6ad5bfe3a5f733ca7075f87a"
       },
       {
@@ -55,7 +55,7 @@
           "Real-Time Tracking: Stay updated every step of the way with live order tracking.",
           "Reliable Delivery Partners: We’ve partnered with trusted couriers to ensure your packages"
         ],
-        "imageOne": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-2-imageOne_W1osXOPhD.jpg",
+        "imageOne": "/seed-images/about-page/feature-2-imageOne_W1osXOPhD.jpg",
         "_id": "6ad5bfe3a5f733ca7075f87b"
       }
     ]

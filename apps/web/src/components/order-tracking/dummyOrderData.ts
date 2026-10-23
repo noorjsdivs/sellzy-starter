@@ -12,7 +12,7 @@ export const dummyOrderData = {
       price: 79.99,
       quantity: 1,
       image:
-        "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "/seed-images/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
     },
     {
       _id: "item-2",
@@ -20,7 +20,7 @@ export const dummyOrderData = {
       price: 299.99,
       quantity: 1,
       image:
-        "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_2_2rl0mU2Wc.jpg",
+        "/seed-images/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_2_2rl0mU2Wc.jpg",
     },
     {
       _id: "item-3",
@@ -28,7 +28,7 @@ export const dummyOrderData = {
       price: 19.99,
       quantity: 2,
       image:
-        "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772391982/sellzy/products/bc8m4wupakthqdaht9ol.jpg",
+        "/seed-images/cloudinary/products/bc8m4wupakthqdaht9ol.jpg",
     },
   ],
   subtotal: 419.96,

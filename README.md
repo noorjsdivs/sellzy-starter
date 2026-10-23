@@ -51,7 +51,7 @@ Free accounts come later, each with the part that needs it, so there's nothing t
 |---|---|---|
 | MongoDB Atlas (free cluster), or MongoDB on your machine | the database | 6 |
 | Firebase and a Gmail app password | Google sign-in and email | 8 |
-| ImageKit (required); Cloudinary and Amazon S3 (optional) | product photos | 11 |
+| ImageKit (required); Cloudinary and Amazon S3 (optional) | product photos, including the seed's ([below](#put-the-seeds-photos-in-your-own-imagekit)) | 11 |
 | Stripe in test mode; SSLCommerz sandbox (optional) | payments | 19 |
 
 ## Quick start
@@ -134,6 +134,7 @@ project. Copy them all at the start, or each one when its part reaches it.
 | Path | What it is | Used from |
 |---|---|---|
 | `apps/api/data/seed/` | the demo data: 40 JSON files, 278 records, including 83 products in 34 categories, brands, banners, menus, blog posts, jobs and sample orders | part 10, where `pnpm seed` loads it |
+| `apps/api/data/seed-images/` and `apps/api/scripts/uploadSeedImages.ts` | the seed's 602 photos (28 MB), and the script that puts them in your ImageKit | after part 12 ([below](#put-the-seeds-photos-in-your-own-imagekit)) |
 | `apps/web/messages/de.json`, `fr.json`, `it.json`, `en-SG.json` | the translations (`en.json` is typed in the part) | part 22 |
 | `apps/web/public/` | logos, illustrations, placeholders and payment badges | part 23 on |
 | `apps/web/src/images/` | the storefront's own images and icons (the part types the `index.ts` that imports them) | part 23 |
@@ -145,10 +146,33 @@ project. Copy them all at the start, or each one when its part reaches it.
 
 A few things to know about the data:
 
-- **Product photos are links** inside the seed, so the storefront needs an internet connection to show them.
+- **The photos go into your own ImageKit.** The seed names each photo by a placeholder (`/seed-images/…`) until you
+  run the upload script below. Until then, photos show as missing, but nothing needs them before part 13.
 - **The people in it are made up:** Maya Chen, Jordan Lee and Aisha Bello, with `example.com` addresses and 555
   numbers.
 - **No accounts are seeded.** You register your own, and part 38 shows how the first admin is made.
+
+### Put the seed's photos in your own ImageKit
+
+Every product, category, brand, banner and blog photo the demo data uses is in `apps/api/data/seed-images/`. Once
+your ImageKit keys are in `apps/api/.env` (part 12), upload them all to your account in one go, from the repo root:
+
+```bash
+pnpm --filter @sellzy/api exec tsx scripts/uploadSeedImages.ts
+pnpm seed
+```
+
+The first command uploads the 602 photos into `/sellzy/…` folders in your ImageKit, then rewrites the seed files so
+each placeholder becomes the photo's address in your account. The second loads the updated seed. It updates records
+by id, so photos you seeded earlier get their new addresses. After that, your store serves every photo from your own
+ImageKit.
+
+- **It's safe to run again.** A photo already uploaded is skipped (`data/seed-images/.uploaded.json` remembers it),
+  and re-uploading a name overwrites the file instead of adding a copy.
+- **It also fills in the order-tracking demo** (`apps/web/src/components/order-tracking/dummyOrderData.ts`), which
+  uses three of the same photos. Copying that file in later, at part 33? Run the script once more. It only fills in
+  the addresses, without uploading anything again.
+- **It needs only `IMAGEKIT_PRIVATE_KEY`.** The key stays in your `.env`, and nothing is sent anywhere but ImageKit.
 
 ## Make it yours
 

@@ -3,7 +3,7 @@
     "_id": "69d7f0e5d12b2f286ae5aa4b",
     "name": "John Carter",
     "role": "CEO & Founder",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/team-members/john-carter_kTxGnJekX.png",
+    "image": "/seed-images/team-members/john-carter_kTxGnJekX.png",
     "socials": {
       "facebook": "https://www.facebook.com/",
       "twitter": "https://x.com/",
@@ -19,7 +19,7 @@
     "_id": "69d7f16ed12b2f286ae5ab94",
     "name": "Sophie Moore",
     "role": "Head of Marketing",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/team-members/sophie-moore_JZYzRBysj.png",
+    "image": "/seed-images/team-members/sophie-moore_JZYzRBysj.png",
     "socials": {
       "facebook": "https://www.facebook.com/",
       "twitter": "https://x.com/",
@@ -35,7 +35,7 @@
     "_id": "69d7f1c7d12b2f286ae5abf5",
     "name": "Matt Cannon",
     "role": "Lead Developer",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/team-members/matt-cannon_5kJ3ZTfvR.png",
+    "image": "/seed-images/team-members/matt-cannon_5kJ3ZTfvR.png",
     "socials": {
       "facebook": "https://www.facebook.com/",
       "twitter": "https://x.com/",
@@ -51,7 +51,7 @@
     "_id": "69d7f1f9d12b2f286ae5abfa",
     "name": "Avery Smith",
     "role": "UI/UX Designer",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/team-members/avery-smith_ILskYiKS5.png",
+    "image": "/seed-images/team-members/avery-smith_ILskYiKS5.png",
     "socials": {
       "facebook": "https://www.facebook.com/",
       "twitter": "https://x.com/",

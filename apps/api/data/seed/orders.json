@@ -8,7 +8,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69aa0afe629a2ae5f0db548b"
       },
       {
@@ -16,7 +16,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888233/sellzy/products/mokshhkgtfg9qsypqyjh.png",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69aa0afe629a2ae5f0db548c"
       },
       {
@@ -24,7 +24,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
         "price": 26.1,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
         "_id": "69aa0afe629a2ae5f0db548d"
       }
     ],
@@ -72,7 +72,7 @@
         "name": "Eska Beauty Care",
         "price": 45,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
+        "image": "/seed-images/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
         "_id": "69abcfe36edff693a9de05fd"
       },
       {
@@ -80,7 +80,7 @@
         "name": "Diesel Whey Protein 2kg combo jar",
         "price": 108,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "image": "/seed-images/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
         "_id": "69abcfe36edff693a9de05fe"
       },
       {
@@ -88,7 +88,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69abcfe36edff693a9de05ff"
       }
     ],
@@ -136,7 +136,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
         "price": 29,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
         "_id": "69ce99d6f1f5b4f236bc3ea7"
       }
     ],
@@ -184,7 +184,7 @@
         "name": "Diesel Whey Protein 2kg combo jar",
         "price": 108,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "image": "/seed-images/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
         "_id": "69cf3a606ea91da5c8a52ecc"
       },
       {
@@ -192,7 +192,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf3a606ea91da5c8a52ecd"
       },
       {
@@ -200,7 +200,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69cf3a606ea91da5c8a52ece"
       }
     ],
@@ -248,7 +248,7 @@
         "name": "Digital blood pressure monitor wrist",
         "price": 108,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
+        "image": "/seed-images/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
         "_id": "69cf3b8870d37deaef70e405"
       },
       {
@@ -256,7 +256,7 @@
         "name": "Diesel Whey Protein 2kg combo jar",
         "price": 108,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "image": "/seed-images/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
         "_id": "69cf3b8870d37deaef70e406"
       }
     ],
@@ -304,7 +304,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf3ed2853fe145aaed59da"
       }
     ],
@@ -352,7 +352,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69cf40491ae7c75e3edfb08f"
       },
       {
@@ -360,7 +360,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf40491ae7c75e3edfb090"
       }
     ],
@@ -408,7 +408,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69cf56761b1f1f3bbc379bd5"
       },
       {
@@ -416,7 +416,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf56761b1f1f3bbc379bd6"
       }
     ],
@@ -464,7 +464,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69cf56841b1f1f3bbc379be5"
       },
       {
@@ -472,7 +472,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf56841b1f1f3bbc379be6"
       }
     ],
@@ -520,7 +520,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69cf585a88845f26a423d573"
       },
       {
@@ -528,7 +528,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69cf585a88845f26a423d574"
       }
     ],
@@ -693,7 +693,7 @@
         "name": "Eska Beauty Care",
         "price": 45,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
+        "image": "/seed-images/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
         "_id": "69cfcc3dad3c72c0444c179f"
       },
       {
@@ -701,7 +701,7 @@
         "name": "Ren Evercalm Lotion for dark skin",
         "price": 70.2,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/ren-evercalm-lotion-for-dark-skin/product_ren_evercalm_lotion_for_dark_skin_1_oZ8d0tNHV.jpg",
+        "image": "/seed-images/products/ren-evercalm-lotion-for-dark-skin/product_ren_evercalm_lotion_for_dark_skin_1_oZ8d0tNHV.jpg",
         "_id": "69cfcc3dad3c72c0444c17a0"
       },
       {
@@ -709,7 +709,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69cfcc3dad3c72c0444c17a1"
       }
     ],
@@ -762,7 +762,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
         "price": 26.1,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
         "_id": "69d0b54097648f49e2e903ed"
       },
       {
@@ -770,7 +770,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69d0b54097648f49e2e903ee"
       },
       {
@@ -778,7 +778,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69d0b54097648f49e2e903ef"
       }
     ],
@@ -897,7 +897,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69d0b6deebec3a4c9a15c69b"
       },
       {
@@ -905,7 +905,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69d0b6deebec3a4c9a15c69c"
       }
     ],
@@ -958,7 +958,7 @@
         "name": "Pink Face Cream Tube",
         "price": 27,
         "quantity": 2,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/pink-face-cream-tube/product_pink_face_cream_tube_1_hyzG_RlTj.jpg",
+        "image": "/seed-images/products/pink-face-cream-tube/product_pink_face_cream_tube_1_hyzG_RlTj.jpg",
         "_id": "69d13268ac760c820c60a8cb"
       },
       {
@@ -966,7 +966,7 @@
         "name": "Curology Cleanser",
         "price": 72,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/curology-cleanser/product_curology_cleanser_1_8T5nvFPqi.jpg",
+        "image": "/seed-images/products/curology-cleanser/product_curology_cleanser_1_8T5nvFPqi.jpg",
         "_id": "69d13268ac760c820c60a8cc"
       },
       {
@@ -974,7 +974,7 @@
         "name": "Livpure Hand Sanitizer",
         "price": 24.3,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772571893/sellzy/products/nxzb0crseq7go5ymilgl.png",
+        "image": "/seed-images/cloudinary/products/nxzb0crseq7go5ymilgl.png",
         "_id": "69d13268ac760c820c60a8cd"
       },
       {
@@ -982,7 +982,7 @@
         "name": "Natural Lipstick Green for glow and shiny lips",
         "price": 89,
         "quantity": 7,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/natural-lipstick-green-for-glow-and-shiny-lips/product_natural_lipstick_green_for_glow_and_shiny_lips_1_azZhli7We.jpg",
+        "image": "/seed-images/products/natural-lipstick-green-for-glow-and-shiny-lips/product_natural_lipstick_green_for_glow_and_shiny_lips_1_azZhli7We.jpg",
         "_id": "69d13268ac760c820c60a8ce"
       }
     ],
@@ -1035,7 +1035,7 @@
         "name": "Diesel Whey Protein 2kg combo jar",
         "price": 108,
         "quantity": 6,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "image": "/seed-images/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
         "_id": "69d38b8076455cd7da926f21"
       },
       {
@@ -1043,7 +1043,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69d38b8076455cd7da926f22"
       },
       {
@@ -1051,7 +1051,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 3,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69d38b8076455cd7da926f23"
       },
       {
@@ -1059,7 +1059,7 @@
         "name": "Apple Health Juice 100ml premium pack",
         "price": 4.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572922/sellzy/products/svqdyf6xneup0msb8krh.png",
+        "image": "/seed-images/cloudinary/products/svqdyf6xneup0msb8krh.png",
         "_id": "69d38b8076455cd7da926f24"
       },
       {
@@ -1067,7 +1067,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69d38b8076455cd7da926f25"
       }
     ],
@@ -1120,7 +1120,7 @@
         "name": "Diesel Whey Protein 2kg combo jar",
         "price": 108,
         "quantity": 7,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "image": "/seed-images/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
         "_id": "69d56f4e79686c2db1a22a4d"
       },
       {
@@ -1128,7 +1128,7 @@
         "name": "Vitamin B2 Tablet with supplement",
         "price": 13.5,
         "quantity": 3,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "image": "/seed-images/cloudinary/products/ldgjx17mnx63pcvo9xga.png",
         "_id": "69d56f4e79686c2db1a22a4e"
       },
       {
@@ -1136,7 +1136,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 3,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69d56f4e79686c2db1a22a4f"
       },
       {
@@ -1144,7 +1144,7 @@
         "name": "Apple Health Juice 100ml premium pack",
         "price": 4.5,
         "quantity": 1,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572922/sellzy/products/svqdyf6xneup0msb8krh.png",
+        "image": "/seed-images/cloudinary/products/svqdyf6xneup0msb8krh.png",
         "_id": "69d56f4e79686c2db1a22a50"
       },
       {
@@ -1152,7 +1152,7 @@
         "name": "Dabur Honitus Cough Remedy",
         "price": 18,
         "quantity": 2,
-        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "image": "/seed-images/cloudinary/products/hw04gyhp35jafrmgw3n9.png",
         "_id": "69d56f4e79686c2db1a22a51"
       },
       {
@@ -1160,7 +1160,7 @@
         "name": "Digital blood pressure monitor wrist",
         "price": 108,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
+        "image": "/seed-images/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
         "_id": "69d56f4e79686c2db1a22a52"
       }
     ],
@@ -1213,7 +1213,7 @@
         "name": "VitaLife Omega-3 Softgels Heart Support Max",
         "price": 18,
         "quantity": 1,
-        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "image": "/seed-images/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
         "_id": "69d571cc4829318518422636"
       }
     ],

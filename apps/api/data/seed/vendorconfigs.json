@@ -10,7 +10,7 @@
     "createdAt": "2026-04-04T10:18:22.230Z",
     "updatedAt": "2026-04-04T10:18:22.230Z",
     "__v": 0,
-    "registrationFeaturesImage": "https://ik.imagekit.io/bf62vomqy/sellzy/vendor-registration/registrationFeaturesImage_z88mHBA78.png",
-    "registrationPartnerImage": "https://ik.imagekit.io/bf62vomqy/sellzy/vendor-registration/registrationPartnerImage_egOkXn3cV.jpg"
+    "registrationFeaturesImage": "/seed-images/vendor-registration/registrationFeaturesImage_z88mHBA78.png",
+    "registrationPartnerImage": "/seed-images/vendor-registration/registrationPartnerImage_egOkXn3cV.jpg"
   }
 ]

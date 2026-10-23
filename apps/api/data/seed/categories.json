@@ -13,7 +13,7 @@
     "slug": "supplements",
     "__v": 3,
     "icon": "",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/supplements/category_supplements__2q0SO2GFN.jpg",
+    "image": "/seed-images/categories/supplements/category_supplements__2q0SO2GFN.jpg",
     "productBases": [
       "69a6639c50f68158c562357b"
     ]
@@ -21,7 +21,7 @@
   {
     "_id": "69a4b9edad2c4749cbbc0f8e",
     "name": "Personal Care",
-    "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772403180/sellzy/categories/kvwtn0bi3jrip2qe0g9c.jpg",
+    "image": "/seed-images/cloudinary/categories/kvwtn0bi3jrip2qe0g9c.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -36,7 +36,7 @@
   {
     "_id": "69a4ba0bad2c4749cbbc0fa1",
     "name": "Diet & Nutrition",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/diet-nutrition/category_diet___nutrition_540x-Knps.jpg",
+    "image": "/seed-images/categories/diet-nutrition/category_diet___nutrition_540x-Knps.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -55,7 +55,7 @@
   {
     "_id": "69a4ba33ad2c4749cbbc1038",
     "name": "Diabetes Care",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/diabetes-care/category_diabetes_care_jyws23gce.jpg",
+    "image": "/seed-images/categories/diabetes-care/category_diabetes_care_jyws23gce.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -74,7 +74,7 @@
   {
     "_id": "69a4ba47ad2c4749cbbc1053",
     "name": "Wellness",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/wellness/category_wellness_g3IEaLnSt.jpg",
+    "image": "/seed-images/categories/wellness/category_wellness_g3IEaLnSt.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -93,7 +93,7 @@
   {
     "_id": "69a4ba5bad2c4749cbbc1073",
     "name": " Skincare",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/skincare/category__skincare_JU91zeVgI6.jpg",
+    "image": "/seed-images/categories/skincare/category__skincare_JU91zeVgI6.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -112,7 +112,7 @@
   {
     "_id": "69a5e09ca014e4f846c57c5b",
     "name": "Natural Care",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/natural-care/category_natural_care_pZGmlMDAA.jpg",
+    "image": "/seed-images/categories/natural-care/category_natural_care_pZGmlMDAA.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -131,7 +131,7 @@
   {
     "_id": "69a5e0baa014e4f846c57c82",
     "name": "Breakfast",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/breakfast/category_breakfast_2QzpyBmPp.jpg",
+    "image": "/seed-images/categories/breakfast/category_breakfast_2QzpyBmPp.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -150,7 +150,7 @@
   {
     "_id": "69a5e0d5a014e4f846c57cad",
     "name": "Personal Lubricants",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/personal-lubricants/category_personal_lubricants_LZ6fT6bX0.jpg",
+    "image": "/seed-images/categories/personal-lubricants/category_personal_lubricants_LZ6fT6bX0.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -169,7 +169,7 @@
   {
     "_id": "69a5e101a014e4f846c57d7d",
     "name": "Dairy & Desserts",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/dairy-desserts/category_dairy___desserts_Pa2babYla.jpg",
+    "image": "/seed-images/categories/dairy-desserts/category_dairy___desserts_Pa2babYla.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -188,7 +188,7 @@
   {
     "_id": "69a5e131a014e4f846c57db0",
     "name": "Temperature Gun",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/temperature-gun/category_temperature_gun_UwxM-QgOr.jpg",
+    "image": "/seed-images/categories/temperature-gun/category_temperature_gun_UwxM-QgOr.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -207,7 +207,7 @@
   {
     "_id": "69a5e154a014e4f846c57de5",
     "name": "Air Freshners",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/air-freshners/category_air_freshners_uksf4bjiS.jpg",
+    "image": "/seed-images/categories/air-freshners/category_air_freshners_uksf4bjiS.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -226,7 +226,7 @@
   {
     "_id": "69a5e1b2a014e4f846c57e1c",
     "name": "Perfumes",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/perfumes/category_perfumes_P4CmPSsbU.jpg",
+    "image": "/seed-images/categories/perfumes/category_perfumes_P4CmPSsbU.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -245,7 +245,7 @@
   {
     "_id": "69a5e204a014e4f846c57e72",
     "name": "Health & Immunity Box",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/health-immunity-box/category_health___immunity_box_RIF1M89n9.jpg",
+    "image": "/seed-images/categories/health-immunity-box/category_health___immunity_box_RIF1M89n9.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -264,7 +264,7 @@
   {
     "_id": "69a5e21ea014e4f846c57eb5",
     "name": "Gym Supplements",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/gym-supplements/category_gym_supplements_-0ohpRFwV.jpg",
+    "image": "/seed-images/categories/gym-supplements/category_gym_supplements_-0ohpRFwV.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -283,7 +283,7 @@
   {
     "_id": "69a5e239a014e4f846c57efc",
     "name": "Haircare Solutions",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/haircare-solutions/category_haircare_solutions_N4dERIAOc.jpg",
+    "image": "/seed-images/categories/haircare-solutions/category_haircare_solutions_N4dERIAOc.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -316,12 +316,12 @@
     "slug": "moisturizers",
     "__v": 0,
     "icon": "",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/moisturizers/category_moisturizers_s_7nyS4Vi.jpg"
+    "image": "/seed-images/categories/moisturizers/category_moisturizers_s_7nyS4Vi.jpg"
   },
   {
     "_id": "69a808dea644943d53ec0009",
     "name": "Skin Serums",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/skin-serums/category_skin_serums_kBH2LE9kZ.jpg",
+    "image": "/seed-images/categories/skin-serums/category_skin_serums_kBH2LE9kZ.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -340,7 +340,7 @@
   {
     "_id": "69a809c3a644943d53ec0269",
     "name": "Blush & Bronzers",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/blush-bronzers/category_blush___bronzers_beKFUBGan1.jpg",
+    "image": "/seed-images/categories/blush-bronzers/category_blush___bronzers_beKFUBGan1.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -358,7 +358,7 @@
   {
     "_id": "69a809edab24417f2504f3f2",
     "name": "Lipsticks & Lip Glosses",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/lipsticks-lip-glosses/category_lipsticks___lip_glosses_hfRr1vsFt.jpg",
+    "image": "/seed-images/categories/lipsticks-lip-glosses/category_lipsticks___lip_glosses_hfRr1vsFt.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -376,7 +376,7 @@
   {
     "_id": "69a80a08e3f8fee4392d3f2f",
     "name": "Hair Oils & Serums",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/hair-oils-serums/category_hair_oils___serums_c8IiB3Txf.jpg",
+    "image": "/seed-images/categories/hair-oils-serums/category_hair_oils___serums_c8IiB3Txf.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -394,7 +394,7 @@
   {
     "_id": "69a80a1be3f8fee4392d3f73",
     "name": "Highlighters",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/highlighters/category_highlighters_rgeggU-Fu.jpg",
+    "image": "/seed-images/categories/highlighters/category_highlighters_rgeggU-Fu.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -412,7 +412,7 @@
   {
     "_id": "69a80a30a1e75fcfbde2530b",
     "name": "Nail Polishes",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/nail-polishes/category_nail_polishes_0tz90lkk2.jpg",
+    "image": "/seed-images/categories/nail-polishes/category_nail_polishes_0tz90lkk2.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -430,7 +430,7 @@
   {
     "_id": "69c77f59d73415bacf437aa4",
     "name": "Your Daily Skin Ritual",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/your-daily-skin-ritual/category_your_daily_skin_ritual_ZsZHeTyt6.jpg",
+    "image": "/seed-images/categories/your-daily-skin-ritual/category_your_daily_skin_ritual_ZsZHeTyt6.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -449,7 +449,7 @@
   {
     "_id": "69c77f7ad73415bacf437af3",
     "name": "Where Glow Meets Care",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/where-glow-meets-care/category_where_glow_meets_care_xjYUuIg1Z.jpg",
+    "image": "/seed-images/categories/where-glow-meets-care/category_where_glow_meets_care_xjYUuIg1Z.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -468,7 +468,7 @@
   {
     "_id": "69c77f94d73415bacf437b45",
     "name": "Hydrate & Shine",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/hydrate-shine/category_hydrate___shine_U8wBNV8jj.jpg",
+    "image": "/seed-images/categories/hydrate-shine/category_hydrate___shine_U8wBNV8jj.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -487,7 +487,7 @@
   {
     "_id": "69c77faad73415bacf437b9b",
     "name": "Gentle Face Essentials",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/gentle-face-essentials/category_gentle_face_essentials_y970FFo2O.jpg",
+    "image": "/seed-images/categories/gentle-face-essentials/category_gentle_face_essentials_y970FFo2O.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -506,7 +506,7 @@
   {
     "_id": "69c77fd1d73415bacf437bf5",
     "name": "Best Skincare Guides",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/best-skincare-guides/category_best_skincare_guides_JFmLJgu7q.jpg",
+    "image": "/seed-images/categories/best-skincare-guides/category_best_skincare_guides_JFmLJgu7q.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -525,7 +525,7 @@
   {
     "_id": "69c798226071f00891f2c807",
     "name": "Seasonal Harvest",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/seasonal-harvest/category_seasonal_harvest_Lla-xNvAl.jpg",
+    "image": "/seed-images/categories/seasonal-harvest/category_seasonal_harvest_Lla-xNvAl.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -540,12 +540,12 @@
     "updatedAt": "2026-03-28T08:58:10.569Z",
     "slug": "seasonal-harvest",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/seasonal-harvest_rjL2sEvDH.svg"
+    "icon": "/seed-images/categories/icons/seasonal-harvest_rjL2sEvDH.svg"
   },
   {
     "_id": "69c798446071f00891f2c887",
     "name": "Pressed Juices",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/pressed-juices/category_pressed_juices_aj6QS_ZAq.jpg",
+    "image": "/seed-images/categories/pressed-juices/category_pressed_juices_aj6QS_ZAq.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -560,12 +560,12 @@
     "updatedAt": "2026-03-28T08:58:44.194Z",
     "slug": "pressed-juices",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/pressed-juices_vI5VSUL0q.svg"
+    "icon": "/seed-images/categories/icons/pressed-juices_vI5VSUL0q.svg"
   },
   {
     "_id": "69c7985e6071f00891f2c8d5",
     "name": "Rare Fruits",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/rare-fruits/category_rare_fruits_HxOdR5LOo.jpg",
+    "image": "/seed-images/categories/rare-fruits/category_rare_fruits_HxOdR5LOo.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -580,12 +580,12 @@
     "updatedAt": "2026-03-28T08:59:10.398Z",
     "slug": "rare-fruits",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/rare-fruits_ZtSYFa_4N.svg"
+    "icon": "/seed-images/categories/icons/rare-fruits_ZtSYFa_4N.svg"
   },
   {
     "_id": "69c798706071f00891f2c927",
     "name": "Crisp Vegetables",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/crisp-vegetables/category_crisp_vegetables_3R5qYrOyF.jpg",
+    "image": "/seed-images/categories/crisp-vegetables/category_crisp_vegetables_3R5qYrOyF.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -600,12 +600,12 @@
     "updatedAt": "2026-03-28T08:59:28.503Z",
     "slug": "crisp-vegetables",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/crisp-vegetables_nUK9W4GA8.svg"
+    "icon": "/seed-images/categories/icons/crisp-vegetables_nUK9W4GA8.svg"
   },
   {
     "_id": "69c798866071f00891f2c97d",
     "name": "Fresh Picks",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/fresh-picks/category_fresh_picks_fEU0PZ3Ju.jpg",
+    "image": "/seed-images/categories/fresh-picks/category_fresh_picks_fEU0PZ3Ju.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -620,12 +620,12 @@
     "updatedAt": "2026-03-28T08:59:50.845Z",
     "slug": "fresh-picks",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/fresh-picks_Z13avL9C3.svg"
+    "icon": "/seed-images/categories/icons/fresh-picks_Z13avL9C3.svg"
   },
   {
     "_id": "69c7989c6071f00891f2c9d7",
     "name": "Nutty Treasures",
-    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/nutty-treasures/category_nutty_treasures_Tw8ECiYXH.jpg",
+    "image": "/seed-images/categories/nutty-treasures/category_nutty_treasures_Tw8ECiYXH.jpg",
     "parent": null,
     "path": "",
     "level": 0,
@@ -640,6 +640,6 @@
     "updatedAt": "2026-03-28T09:00:12.350Z",
     "slug": "nutty-treasures",
     "__v": 0,
-    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/nutty-treasures_8BqsuzUzA.svg"
+    "icon": "/seed-images/categories/icons/nutty-treasures_8BqsuzUzA.svg"
   }
 ]
