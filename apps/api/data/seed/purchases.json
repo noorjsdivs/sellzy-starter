@@ -1,0 +1,284 @@
+[
+  {
+    "_id": "69d0c9d8ed0e2999ef5ce347",
+    "purchaseNumber": "PO-000001",
+    "status": "received",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "productName": "Vitamin B2 Tablet with supplement",
+        "quantity": 100,
+        "purchasePrice": 15,
+        "profitMargin": 0,
+        "sellingPrice": 15,
+        "totalCost": 1500,
+        "_id": "69d0c9d8ed0e2999ef5ce348"
+      }
+    ],
+    "totalAmount": 1500,
+    "supplier": {
+      "supplierId": "69d0c908ed0e2999ef5cdf17",
+      "name": "Green Valley Supplies",
+      "email": "supplier@example.com",
+      "address": "12 Market Road"
+    },
+    "notes": "",
+    "createdBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin"
+    },
+    "statusHistory": [
+      {
+        "status": "requisition",
+        "changedAt": "2026-04-04T08:20:40.822Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Purchase requisition created",
+        "_id": "69d0c9d8ed0e2999ef5ce349"
+      },
+      {
+        "status": "approved",
+        "changedAt": "2026-04-04T08:25:58.051Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "good to go",
+        "_id": "69d0cb16ed0e2999ef5ce66f"
+      },
+      {
+        "status": "purchased",
+        "changedAt": "2026-04-04T08:26:02.697Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items purchased",
+        "_id": "69d0cb1aed0e2999ef5ce68c"
+      },
+      {
+        "status": "received",
+        "changedAt": "2026-04-04T08:26:08.032Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items received and stock updated",
+        "_id": "69d0cb20ed0e2999ef5ce6c6"
+      }
+    ],
+    "expectedDeliveryDate": null,
+    "createdAt": "2026-04-04T08:20:40.827Z",
+    "updatedAt": "2026-04-04T08:26:08.078Z",
+    "__v": 0,
+    "approvedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T08:25:58.051Z",
+      "notes": "good to go"
+    },
+    "purchasedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T08:26:02.697Z",
+      "notes": "Items purchased"
+    },
+    "actualDeliveryDate": "2026-04-04T08:26:08.032Z",
+    "receivedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T08:26:08.032Z",
+      "notes": "Items received and stock updated"
+    }
+  },
+  {
+    "_id": "69d0e4138c8bfab1e067113a",
+    "purchaseNumber": "PO-000002",
+    "status": "received",
+    "items": [
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "productName": "VitaLife Omega-3 Softgels Heart Support Max",
+        "quantity": 200,
+        "purchasePrice": 20,
+        "profitMargin": 0,
+        "sellingPrice": 20,
+        "totalCost": 4000,
+        "_id": "69d0e4138c8bfab1e067113b"
+      }
+    ],
+    "totalAmount": 4000,
+    "supplier": {
+      "supplierId": "69d0c908ed0e2999ef5cdf17",
+      "name": "Green Valley Supplies",
+      "email": "supplier@example.com",
+      "address": "12 Market Road"
+    },
+    "notes": "",
+    "createdBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin"
+    },
+    "statusHistory": [
+      {
+        "status": "requisition",
+        "changedAt": "2026-04-04T10:12:35.584Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Purchase requisition created",
+        "_id": "69d0e4138c8bfab1e067113c"
+      },
+      {
+        "status": "approved",
+        "changedAt": "2026-04-04T10:12:48.407Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Approved",
+        "_id": "69d0e4208c8bfab1e0671168"
+      },
+      {
+        "status": "purchased",
+        "changedAt": "2026-04-04T10:12:58.927Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items purchased",
+        "_id": "69d0e42a8c8bfab1e06711c4"
+      },
+      {
+        "status": "received",
+        "changedAt": "2026-04-04T10:13:19.196Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items received and stock updated",
+        "_id": "69d0e43f8c8bfab1e06712c4"
+      }
+    ],
+    "expectedDeliveryDate": null,
+    "createdAt": "2026-04-04T10:12:35.595Z",
+    "updatedAt": "2026-04-04T10:13:19.244Z",
+    "__v": 0,
+    "approvedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T10:12:48.407Z",
+      "notes": "Approved"
+    },
+    "purchasedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T10:12:58.927Z",
+      "notes": "Items purchased"
+    },
+    "actualDeliveryDate": "2026-04-04T10:13:19.196Z",
+    "receivedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-04T10:13:19.196Z",
+      "notes": "Items received and stock updated"
+    }
+  },
+  {
+    "_id": "69d95c368f59218ec4a5a4dd",
+    "purchaseNumber": "PO-000003",
+    "status": "received",
+    "items": [
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "productName": "Diesel Whey Protein 2kg combo jar",
+        "quantity": 100,
+        "purchasePrice": 120,
+        "profitMargin": 10,
+        "sellingPrice": 132,
+        "totalCost": 12000,
+        "_id": "69d95c368f59218ec4a5a4de"
+      }
+    ],
+    "totalAmount": 12000,
+    "supplier": {
+      "supplierId": "69d0c908ed0e2999ef5cdf17",
+      "name": "Green Valley Supplies",
+      "email": "supplier@example.com",
+      "address": "12 Market Road"
+    },
+    "notes": "",
+    "createdBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin"
+    },
+    "statusHistory": [
+      {
+        "status": "requisition",
+        "changedAt": "2026-04-10T20:23:18.855Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Purchase requisition created",
+        "_id": "69d95c368f59218ec4a5a4df"
+      },
+      {
+        "status": "approved",
+        "changedAt": "2026-04-10T20:26:06.655Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Approved",
+        "_id": "69d95cde8f59218ec4a5a530"
+      },
+      {
+        "status": "purchased",
+        "changedAt": "2026-04-10T20:26:16.925Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items purchased",
+        "_id": "69d95ce88f59218ec4a5a540"
+      },
+      {
+        "status": "received",
+        "changedAt": "2026-04-10T20:26:38.862Z",
+        "changedBy": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Items received and stock updated",
+        "_id": "69d95cfe8f59218ec4a5a573"
+      }
+    ],
+    "expectedDeliveryDate": null,
+    "createdAt": "2026-04-10T20:23:18.859Z",
+    "updatedAt": "2026-04-10T20:26:38.985Z",
+    "__v": 0,
+    "approvedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-10T20:26:06.655Z",
+      "notes": "Approved"
+    },
+    "purchasedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-10T20:26:16.925Z",
+      "notes": "Items purchased"
+    },
+    "actualDeliveryDate": "2026-04-10T20:26:38.862Z",
+    "receivedBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin",
+      "at": "2026-04-10T20:26:38.862Z",
+      "notes": "Items received and stock updated"
+    }
+  }
+]

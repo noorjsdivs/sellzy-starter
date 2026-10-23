@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "69d0e56e8c8bfab1e06715a0",
+    "vendorEnabled": true,
+    "defaultCommissionRate": 15,
+    "minOrderAmount": 0,
+    "allowVendorRegistration": true,
+    "requireApproval": true,
+    "maxProductsPerVendor": 1000,
+    "createdAt": "2026-04-04T10:18:22.230Z",
+    "updatedAt": "2026-04-04T10:18:22.230Z",
+    "__v": 0,
+    "registrationFeaturesImage": "https://ik.imagekit.io/bf62vomqy/sellzy/vendor-registration/registrationFeaturesImage_z88mHBA78.png",
+    "registrationPartnerImage": "https://ik.imagekit.io/bf62vomqy/sellzy/vendor-registration/registrationPartnerImage_egOkXn3cV.jpg"
+  }
+]

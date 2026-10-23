@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "69d7fac7cbd3510b1a4e1ea2",
+    "title": "Senior Frontend Engineer (Next.js)",
+    "department": "Engineering",
+    "location": "In-house",
+    "type": "Full-Time",
+    "description": "We are looking for a Senior Frontend Engineer to lead the development of our high-performance, scalable web applications. You will be responsible for architecting complex user interfaces, optimizing rendering strategies, and mentoring junior developers.",
+    "requirements": [
+      "5+ years of professional experience in frontend web development",
+      "Deep expertise in React.js, Next.js, and Server-Side Rendering (SSR)",
+      "Strong proficiency in TypeScript and modern JavaScript (ES6+)",
+      "Experience with state management libraries (Redux, Zustand, or Context API)",
+      "Proven ability to write clean, maintainable, and well-tested code"
+    ],
+    "benefits": [
+      "100% remote work flexibility",
+      "Comprehensive health, vision, and dental insurance",
+      "Annual professional development budget",
+      "Generous paid time off (PTO) and sick leave",
+      "Latest MacBook Pro and home office setup stipend"
+    ],
+    "isActive": true,
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-04-09T19:15:19.796Z",
+    "updatedAt": "2026-04-09T19:15:19.796Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7fb1dcbd3510b1a4e1ea7",
+    "title": "Full Stack MERN Developer",
+    "department": "Engineering",
+    "location": "In-house",
+    "type": "Full-Time",
+    "description": "Join our core product team to build and maintain robust APIs and dynamic user interfaces. You will work across the entire stack, from database design to frontend implementation, ensuring seamless integration between our backend services and client applications.",
+    "requirements": [
+      "3+ years of experience building applications with the MERN stack",
+      "Solid understanding of Node.js and Express.js architecture",
+      "Experience designing and optimizing MongoDB schemas",
+      "Proficiency in building responsive UIs with React",
+      "Familiarity with RESTful APIs and GraphQL"
+    ],
+    "benefits": [
+      "Flexible working hours",
+      "Profit-sharing program",
+      "Monthly wellness and fitness stipend",
+      "Paid family leave",
+      "Quarterly team off-sites and retreats"
+    ],
+    "isActive": true,
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-04-09T19:16:45.994Z",
+    "updatedAt": "2026-04-09T19:16:45.994Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7fb5acbd3510b1a4e1eac",
+    "title": "Mobile App Developer (React Native)",
+    "department": "Mobile Engineering",
+    "location": "Remote",
+    "type": "Full-Time",
+    "description": "We are seeking a React Native Developer to build and deploy cross-platform mobile applications. You will collaborate closely with our design and web engineering teams to translate our web experiences into native-feeling mobile apps for iOS and Android.",
+    "requirements": [
+      "2+ years of dedicated experience with React Native",
+      "Solid understanding of mobile UI/UX principles",
+      "Experience with native build tools (XCode, Android Studio)",
+      "Familiarity with app store deployment processes (App Store Connect, Google Play Console)",
+      "Strong problem-solving and debugging skills"
+    ],
+    "benefits": [
+      "Competitive base salary",
+      "Stock options/Equity package",
+      "Unlimited paid time off",
+      "Co-working space membership",
+      "Catered weekly team lunches"
+    ],
+    "isActive": true,
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-04-09T19:17:46.791Z",
+    "updatedAt": "2026-04-09T19:17:46.791Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7fb92cbd3510b1a4e1eb1",
+    "title": "Technical Content Creator / Developer Advocate",
+    "department": "Developer Relations",
+    "location": "In-house",
+    "type": "Full-Time",
+    "description": "We are looking for a passionate developer who loves to teach. In this role, you will create high-quality technical tutorials, documentation, and video content to help our community of developers learn and succeed with modern web technologies.",
+    "requirements": [
+      "Strong foundation in web development (JavaScript, React, Node.js)",
+      "Excellent written and verbal communication skills",
+      "Experience creating video tutorials or writing technical blog posts",
+      "Familiarity with video editing software (Premiere Pro, Final Cut, etc.)",
+      "Ability to break down complex technical concepts into easy-to-understand content"
+    ],
+    "benefits": [
+      "Professional audio and video recording gear provided",
+      "Conference and travel budget to attend industry events",
+      "4-day work week option",
+      "Premium health coverage",
+      "Paid sabbaticals after 4 years"
+    ],
+    "isActive": true,
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-04-09T19:18:42.508Z",
+    "updatedAt": "2026-04-09T19:18:42.508Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7fbdfcbd3510b1a4e1eb6",
+    "title": "UI/UX Product Designer",
+    "department": "Design",
+    "location": "In-house",
+    "type": "Full-Time",
+    "description": "We are searching for a talented UI/UX Designer to craft intuitive, accessible, and beautiful interfaces for our digital products. You will own the design process from wireframing and prototyping to final high-fidelity handoffs, ensuring our tools are a joy for our users to navigate.",
+    "requirements": [
+      "3+ years of experience designing web and mobile applications",
+      "Expert-level proficiency in Figma",
+      "Strong portfolio demonstrating modern, user-centric design solutions",
+      "Solid understanding of typography, color theory, and layout principles",
+      "Basic understanding of HTML/CSS to communicate effectively with developers"
+    ],
+    "benefits": [
+      "100% employer-paid healthcare premiums",
+      "Matching 401(k) or pension contributions",
+      "Annual technology upgrade allowance",
+      "Free subscription to learning platforms (e.g., Masterclass, Coursera)",
+      "Paid volunteer days"
+    ],
+    "isActive": true,
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-04-09T19:19:59.500Z",
+    "updatedAt": "2026-04-09T19:19:59.500Z",
+    "__v": 0
+  }
+]

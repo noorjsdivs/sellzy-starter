@@ -1,0 +1,370 @@
+[
+  {
+    "_id": "698b565b137c152e35f97a6c",
+    "title": "Home",
+    "href": "/",
+    "order": 0,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [
+      {
+        "_id": "69d5389387885e8aae2fd790",
+        "title": "Healthcare",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d5389387885e8aae2fd791",
+        "title": "Beauty",
+        "href": "/home-2",
+        "subItems": []
+      },
+      {
+        "_id": "69d5389387885e8aae2fd792",
+        "title": "Grocery",
+        "href": "/home-3",
+        "subItems": []
+      }
+    ],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:01:31.695Z",
+    "updatedAt": "2026-04-07T17:02:11.592Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b583c137c152e35f97ac9",
+    "title": "Shop",
+    "href": "/shop",
+    "order": 1,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [
+      {
+        "_id": "69d6355f19fc0e2471fc83f6",
+        "title": "Product Details",
+        "href": "/product/vitalife-omega-3-softgels-heart-support-max-strength",
+        "subItems": []
+      },
+      {
+        "_id": "69d6355f19fc0e2471fc83f7",
+        "title": "Shop - Wishlist",
+        "href": "/user/wishlist",
+        "subItems": []
+      },
+      {
+        "_id": "69d6355f19fc0e2471fc83f8",
+        "title": "Shop - Cart",
+        "href": "/cart",
+        "subItems": []
+      },
+      {
+        "_id": "69d6355f19fc0e2471fc83f9",
+        "title": "Shop - Checkout",
+        "href": "/checkout",
+        "subItems": []
+      },
+      {
+        "_id": "69d6355f19fc0e2471fc83fa",
+        "title": "Shop - Compare",
+        "href": "/compare",
+        "subItems": []
+      }
+    ],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:09:32.690Z",
+    "updatedAt": "2026-04-08T11:00:47.246Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b58b3137c152e35f97aff",
+    "title": "Seller",
+    "href": "/",
+    "order": 20,
+    "isActive": false,
+    "isMega": false,
+    "subItems": [
+      {
+        "_id": "69d55c4adc0ae620cd837b91",
+        "title": "Seller Grid",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c4adc0ae620cd837b92",
+        "title": "Seller List",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c4adc0ae620cd837b93",
+        "title": "Seller Market Place v1",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c4adc0ae620cd837b94",
+        "title": "Seller Market Place v2",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c4adc0ae620cd837b95",
+        "title": "Seller Account",
+        "href": "/",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c4adc0ae620cd837b96",
+        "title": "Seller Dashbaord",
+        "href": "/",
+        "subItems": []
+      }
+    ],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:11:31.947Z",
+    "updatedAt": "2026-04-07T19:34:34.824Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b5a55137c152e35f97b47",
+    "title": "Mega Menu",
+    "href": "/",
+    "order": 4,
+    "isActive": true,
+    "isMega": true,
+    "subItems": [],
+    "megaData": [
+      {
+        "title": "Shop Grid",
+        "items": [
+          {
+            "title": "Left Sidebar 3 Column",
+            "href": "left-sidebar-3-column",
+            "_id": "69d55c5bdc0ae620cd837bd9"
+          },
+          {
+            "title": "Left Sidebar 4 Column",
+            "href": "left-sidebar-4-column",
+            "_id": "69d55c5bdc0ae620cd837bda"
+          },
+          {
+            "title": "Left Sidebar 5 Column",
+            "href": "left-sidebar-5-column",
+            "_id": "69d55c5bdc0ae620cd837bdb"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837bd8"
+      },
+      {
+        "title": "GRID WITH BANNER",
+        "items": [
+          {
+            "title": "Banner with Left Sidebar 3 Columns",
+            "href": "banner-with-left-sidebar-3-columns",
+            "_id": "69d55c5bdc0ae620cd837bdd"
+          },
+          {
+            "title": "Banner with Left Sidebar 4 Columns",
+            "href": "banner-with-left-sidebar-4-columns",
+            "_id": "69d55c5bdc0ae620cd837bde"
+          },
+          {
+            "title": "Banner with Left Sidebar 5 Columns",
+            "href": "banner-with-left-sidebar-5-columns",
+            "_id": "69d55c5bdc0ae620cd837bdf"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837bdc"
+      },
+      {
+        "title": "FULL WIDTH LAYOUT",
+        "items": [
+          {
+            "title": "Grid - 3 Columns (Banner)",
+            "href": "grid-3-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be1"
+          },
+          {
+            "title": "Grid - 4 Columns (Banner)",
+            "href": "grid-4-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be2"
+          },
+          {
+            "title": "Grid - 5 Columns (Banner)",
+            "href": "grid-5-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be3"
+          },
+          {
+            "title": "Grid - 6 Columns (Banner)",
+            "href": "grid-6-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be4"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837be0"
+      },
+      {
+        "title": "Horizontal filter",
+        "items": [
+          {
+            "title": "Grid - 3 Columns (Banner)",
+            "href": "grid-3-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be6"
+          },
+          {
+            "title": "Grid - 4 Columns (Banner)",
+            "href": "grid-4-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be7"
+          },
+          {
+            "title": "Grid - 5 Columns (Banner)",
+            "href": "grid-5-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be8"
+          },
+          {
+            "title": "Grid - 6 Columns (Banner)",
+            "href": "grid-6-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837be9"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837be5"
+      },
+      {
+        "title": "Top Banner",
+        "items": [
+          {
+            "title": "Grid - 3 Columns (Left Filter)",
+            "href": "grid-3-columns-left-filter",
+            "_id": "69d55c5bdc0ae620cd837beb"
+          },
+          {
+            "title": "Grid - 4 Columns (Left Filter)",
+            "href": "grid-4-columns-left-filter",
+            "_id": "69d55c5bdc0ae620cd837bec"
+          },
+          {
+            "title": "Grid - 5 Columns (Left Filter)",
+            "href": "grid-5-columns-left-filter",
+            "_id": "69d55c5bdc0ae620cd837bed"
+          },
+          {
+            "title": "List - 1 Column (Left Filter)",
+            "href": "list-1-column-left-filter",
+            "_id": "69d55c5bdc0ae620cd837bee"
+          },
+          {
+            "title": "List - 2 Columns (Left Filter)",
+            "href": "list-2-columns-left-filter",
+            "_id": "69d55c5bdc0ae620cd837bef"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837bea"
+      },
+      {
+        "title": "Banner with filter",
+        "items": [
+          {
+            "title": "Grid - 3 Columns (Banner)",
+            "href": "grid-3-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837bf1"
+          },
+          {
+            "title": "Grid - 4 Columns (Banner)",
+            "href": "grid-4-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837bf2"
+          },
+          {
+            "title": "Grid - 5 Columns (Banner)",
+            "href": "grid-5-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837bf3"
+          },
+          {
+            "title": "Grid - 6 Columns (Banner)",
+            "href": "grid-6-columns-banner",
+            "_id": "69d55c5bdc0ae620cd837bf4"
+          }
+        ],
+        "_id": "69d55c5bdc0ae620cd837bf0"
+      }
+    ],
+    "createdAt": "2026-02-10T16:18:29.352Z",
+    "updatedAt": "2026-04-07T19:34:51.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b5af0137c152e35f97cf3",
+    "title": "Blog",
+    "href": "/blog",
+    "order": 5,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:21:04.999Z",
+    "updatedAt": "2026-04-07T19:35:00.336Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b5b2e137c152e35f97d30",
+    "title": "Pages",
+    "href": "/",
+    "order": 3,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [
+      {
+        "_id": "69d55c3fdc0ae620cd837b4d",
+        "title": "404 Page",
+        "href": "/not-found",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c3fdc0ae620cd837b4e",
+        "title": "Coming Soon",
+        "href": "/coming-soon",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c3fdc0ae620cd837b4f",
+        "title": "FAQ",
+        "href": "/faq",
+        "subItems": []
+      },
+      {
+        "_id": "69d55c3fdc0ae620cd837b50",
+        "title": "My Account",
+        "href": "/user/dashboard",
+        "subItems": []
+      }
+    ],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:22:06.721Z",
+    "updatedAt": "2026-04-07T19:34:23.723Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b5b6d137c152e35f97eec",
+    "title": "About Us",
+    "href": "/about",
+    "order": 6,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:23:09.853Z",
+    "updatedAt": "2026-02-10T16:23:09.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "698b5b7a137c152e35f97f27",
+    "title": "Contact Us",
+    "href": "/contact",
+    "order": 7,
+    "isActive": true,
+    "isMega": false,
+    "subItems": [],
+    "megaData": [],
+    "createdAt": "2026-02-10T16:23:22.072Z",
+    "updatedAt": "2026-02-10T16:23:22.072Z",
+    "__v": 0
+  }
+]

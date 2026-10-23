@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "69a6639c50f68158c562357b",
+    "title": "Healthcare",
+    "slug": "healthcare",
+    "isActive": true,
+    "createdAt": "2026-03-03T04:29:16.490Z",
+    "updatedAt": "2026-03-28T09:01:57.740Z",
+    "__v": 0,
+    "displayOrder": 1
+  },
+  {
+    "_id": "69a663a850f68158c5623580",
+    "title": "Beauty",
+    "slug": "beauty",
+    "isActive": true,
+    "createdAt": "2026-03-03T04:29:28.448Z",
+    "updatedAt": "2026-03-28T09:02:03.432Z",
+    "__v": 0,
+    "displayOrder": 2
+  },
+  {
+    "_id": "69a663b450f68158c5623585",
+    "title": "Grocery",
+    "slug": "grocery",
+    "isActive": false,
+    "createdAt": "2026-03-03T04:29:40.816Z",
+    "updatedAt": "2026-04-04T06:42:29.716Z",
+    "__v": 0,
+    "displayOrder": 3
+  },
+  {
+    "_id": "69a663bc50f68158c562358a",
+    "title": "Fashion",
+    "slug": "fashion",
+    "isActive": false,
+    "createdAt": "2026-03-03T04:29:48.773Z",
+    "updatedAt": "2026-04-04T06:42:24.095Z",
+    "__v": 0,
+    "displayOrder": 0
+  },
+  {
+    "_id": "69a663c450f68158c562358f",
+    "title": "Electronics",
+    "slug": "electronics",
+    "isActive": false,
+    "createdAt": "2026-03-03T04:29:56.107Z",
+    "updatedAt": "2026-04-04T06:42:17.092Z",
+    "__v": 0,
+    "displayOrder": 0
+  }
+]

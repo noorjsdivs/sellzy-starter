@@ -1,0 +1,645 @@
+[
+  {
+    "_id": "698ccd6eb8d43495a8a25a76",
+    "name": "Supplements ",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-02-11T18:41:50.091Z",
+    "updatedAt": "2026-03-28T06:34:02.548Z",
+    "slug": "supplements",
+    "__v": 3,
+    "icon": "",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/supplements/category_supplements__2q0SO2GFN.jpg",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a4b9edad2c4749cbbc0f8e",
+    "name": "Personal Care",
+    "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772403180/sellzy/categories/kvwtn0bi3jrip2qe0g9c.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 2,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-01T22:13:01.312Z",
+    "updatedAt": "2026-03-01T22:13:01.312Z",
+    "slug": "personal-care",
+    "__v": 0
+  },
+  {
+    "_id": "69a4ba0bad2c4749cbbc0fa1",
+    "name": "Diet & Nutrition",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/diet-nutrition/category_diet___nutrition_540x-Knps.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-01T22:13:31.412Z",
+    "updatedAt": "2026-03-04T10:28:15.683Z",
+    "slug": "diet-nutrition",
+    "__v": 1,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a4ba33ad2c4749cbbc1038",
+    "name": "Diabetes Care",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/diabetes-care/category_diabetes_care_jyws23gce.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-01T22:14:11.001Z",
+    "updatedAt": "2026-03-04T10:28:02.962Z",
+    "slug": "diabetes-care",
+    "__v": 1,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a4ba47ad2c4749cbbc1053",
+    "name": "Wellness",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/wellness/category_wellness_g3IEaLnSt.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-01T22:14:31.630Z",
+    "updatedAt": "2026-03-04T10:27:27.395Z",
+    "slug": "wellness",
+    "__v": 1,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a4ba5bad2c4749cbbc1073",
+    "name": " Skincare",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/skincare/category__skincare_JU91zeVgI6.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-01T22:14:51.830Z",
+    "updatedAt": "2026-03-04T10:17:09.346Z",
+    "slug": "skincare",
+    "__v": 1,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e09ca014e4f846c57c5b",
+    "name": "Natural Care",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/natural-care/category_natural_care_pZGmlMDAA.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:10:20.031Z",
+    "updatedAt": "2026-03-04T10:16:55.081Z",
+    "slug": "natural-care",
+    "__v": 1,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e0baa014e4f846c57c82",
+    "name": "Breakfast",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/breakfast/category_breakfast_2QzpyBmPp.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:10:50.928Z",
+    "updatedAt": "2026-03-04T09:39:21.900Z",
+    "slug": "breakfast",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e0d5a014e4f846c57cad",
+    "name": "Personal Lubricants",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/personal-lubricants/category_personal_lubricants_LZ6fT6bX0.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:11:17.365Z",
+    "updatedAt": "2026-03-04T09:40:46.426Z",
+    "slug": "personal-lubricants",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e101a014e4f846c57d7d",
+    "name": "Dairy & Desserts",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/dairy-desserts/category_dairy___desserts_Pa2babYla.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:12:01.855Z",
+    "updatedAt": "2026-03-04T09:40:35.544Z",
+    "slug": "dairy-desserts",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e131a014e4f846c57db0",
+    "name": "Temperature Gun",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/temperature-gun/category_temperature_gun_UwxM-QgOr.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:12:49.465Z",
+    "updatedAt": "2026-03-04T09:40:23.838Z",
+    "slug": "temperature-gun",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e154a014e4f846c57de5",
+    "name": "Air Freshners",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/air-freshners/category_air_freshners_uksf4bjiS.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:13:24.974Z",
+    "updatedAt": "2026-03-04T09:40:11.643Z",
+    "slug": "air-freshners",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e1b2a014e4f846c57e1c",
+    "name": "Perfumes",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/perfumes/category_perfumes_P4CmPSsbU.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:14:58.634Z",
+    "updatedAt": "2026-03-04T09:39:57.968Z",
+    "slug": "perfumes",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e204a014e4f846c57e72",
+    "name": "Health & Immunity Box",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/health-immunity-box/category_health___immunity_box_RIF1M89n9.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:16:20.849Z",
+    "updatedAt": "2026-03-04T09:39:44.547Z",
+    "slug": "health-immunity-box",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e21ea014e4f846c57eb5",
+    "name": "Gym Supplements",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/gym-supplements/category_gym_supplements_-0ohpRFwV.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:16:46.853Z",
+    "updatedAt": "2026-03-04T09:38:57.803Z",
+    "slug": "gym-supplements",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5e239a014e4f846c57efc",
+    "name": "Haircare Solutions",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/haircare-solutions/category_haircare_solutions_N4dERIAOc.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 0,
+    "isActive": true,
+    "description": "",
+    "createdAt": "2026-03-02T19:17:13.973Z",
+    "updatedAt": "2026-03-04T09:38:35.100Z",
+    "slug": "haircare-solutions",
+    "__v": 2,
+    "icon": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a80806a644943d53ebff91",
+    "name": "Moisturizers",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 1,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:23:02.212Z",
+    "updatedAt": "2026-03-04T10:26:51.553Z",
+    "slug": "moisturizers",
+    "__v": 0,
+    "icon": "",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/moisturizers/category_moisturizers_s_7nyS4Vi.jpg"
+  },
+  {
+    "_id": "69a808dea644943d53ec0009",
+    "name": "Skin Serums",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/skin-serums/category_skin_serums_kBH2LE9kZ.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 2,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:26:38.466Z",
+    "updatedAt": "2026-03-04T10:27:12.133Z",
+    "slug": "skin-serums",
+    "__v": 1,
+    "icon": ""
+  },
+  {
+    "_id": "69a809c3a644943d53ec0269",
+    "name": "Blush & Bronzers",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/blush-bronzers/category_blush___bronzers_beKFUBGan1.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 4,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:30:27.048Z",
+    "updatedAt": "2026-03-04T10:30:27.048Z",
+    "slug": "blush-bronzers",
+    "__v": 0
+  },
+  {
+    "_id": "69a809edab24417f2504f3f2",
+    "name": "Lipsticks & Lip Glosses",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/lipsticks-lip-glosses/category_lipsticks___lip_glosses_hfRr1vsFt.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 5,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:31:09.385Z",
+    "updatedAt": "2026-03-04T10:31:09.385Z",
+    "slug": "lipsticks-lip-glosses",
+    "__v": 0
+  },
+  {
+    "_id": "69a80a08e3f8fee4392d3f2f",
+    "name": "Hair Oils & Serums",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/hair-oils-serums/category_hair_oils___serums_c8IiB3Txf.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 6,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:31:36.668Z",
+    "updatedAt": "2026-03-04T10:31:36.668Z",
+    "slug": "hair-oils-serums",
+    "__v": 0
+  },
+  {
+    "_id": "69a80a1be3f8fee4392d3f73",
+    "name": "Highlighters",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/highlighters/category_highlighters_rgeggU-Fu.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 7,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:31:55.205Z",
+    "updatedAt": "2026-03-04T10:31:55.205Z",
+    "slug": "highlighters",
+    "__v": 0
+  },
+  {
+    "_id": "69a80a30a1e75fcfbde2530b",
+    "name": "Nail Polishes",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/nail-polishes/category_nail_polishes_0tz90lkk2.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 8,
+    "isActive": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-04T10:32:16.070Z",
+    "updatedAt": "2026-03-04T10:32:16.070Z",
+    "slug": "nail-polishes",
+    "__v": 0
+  },
+  {
+    "_id": "69c77f59d73415bacf437aa4",
+    "name": "Your Daily Skin Ritual",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/your-daily-skin-ritual/category_your_daily_skin_ritual_ZsZHeTyt6.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 8,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:12:25.252Z",
+    "updatedAt": "2026-03-28T07:12:25.252Z",
+    "slug": "your-daily-skin-ritual",
+    "__v": 0
+  },
+  {
+    "_id": "69c77f7ad73415bacf437af3",
+    "name": "Where Glow Meets Care",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/where-glow-meets-care/category_where_glow_meets_care_xjYUuIg1Z.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 9,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:12:58.919Z",
+    "updatedAt": "2026-03-28T07:12:58.919Z",
+    "slug": "where-glow-meets-care",
+    "__v": 0
+  },
+  {
+    "_id": "69c77f94d73415bacf437b45",
+    "name": "Hydrate & Shine",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/hydrate-shine/category_hydrate___shine_U8wBNV8jj.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 10,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:13:24.804Z",
+    "updatedAt": "2026-03-28T07:13:24.804Z",
+    "slug": "hydrate-shine",
+    "__v": 0
+  },
+  {
+    "_id": "69c77faad73415bacf437b9b",
+    "name": "Gentle Face Essentials",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/gentle-face-essentials/category_gentle_face_essentials_y970FFo2O.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 11,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:13:46.601Z",
+    "updatedAt": "2026-03-28T07:13:46.601Z",
+    "slug": "gentle-face-essentials",
+    "__v": 0
+  },
+  {
+    "_id": "69c77fd1d73415bacf437bf5",
+    "name": "Best Skincare Guides",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/best-skincare-guides/category_best_skincare_guides_JFmLJgu7q.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 12,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:14:25.450Z",
+    "updatedAt": "2026-03-28T07:14:25.450Z",
+    "slug": "best-skincare-guides",
+    "__v": 0
+  },
+  {
+    "_id": "69c798226071f00891f2c807",
+    "name": "Seasonal Harvest",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/seasonal-harvest/category_seasonal_harvest_Lla-xNvAl.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 1,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T08:58:10.569Z",
+    "updatedAt": "2026-03-28T08:58:10.569Z",
+    "slug": "seasonal-harvest",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/seasonal-harvest_rjL2sEvDH.svg"
+  },
+  {
+    "_id": "69c798446071f00891f2c887",
+    "name": "Pressed Juices",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/pressed-juices/category_pressed_juices_aj6QS_ZAq.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 2,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T08:58:44.194Z",
+    "updatedAt": "2026-03-28T08:58:44.194Z",
+    "slug": "pressed-juices",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/pressed-juices_vI5VSUL0q.svg"
+  },
+  {
+    "_id": "69c7985e6071f00891f2c8d5",
+    "name": "Rare Fruits",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/rare-fruits/category_rare_fruits_HxOdR5LOo.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 3,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T08:59:10.398Z",
+    "updatedAt": "2026-03-28T08:59:10.398Z",
+    "slug": "rare-fruits",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/rare-fruits_ZtSYFa_4N.svg"
+  },
+  {
+    "_id": "69c798706071f00891f2c927",
+    "name": "Crisp Vegetables",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/crisp-vegetables/category_crisp_vegetables_3R5qYrOyF.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 4,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T08:59:28.503Z",
+    "updatedAt": "2026-03-28T08:59:28.503Z",
+    "slug": "crisp-vegetables",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/crisp-vegetables_nUK9W4GA8.svg"
+  },
+  {
+    "_id": "69c798866071f00891f2c97d",
+    "name": "Fresh Picks",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/fresh-picks/category_fresh_picks_fEU0PZ3Ju.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 5,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T08:59:50.845Z",
+    "updatedAt": "2026-03-28T08:59:50.845Z",
+    "slug": "fresh-picks",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/fresh-picks_Z13avL9C3.svg"
+  },
+  {
+    "_id": "69c7989c6071f00891f2c9d7",
+    "name": "Nutty Treasures",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/nutty-treasures/category_nutty_treasures_Tw8ECiYXH.jpg",
+    "parent": null,
+    "path": "",
+    "level": 0,
+    "order": 6,
+    "isActive": true,
+    "isFavorite": true,
+    "description": "",
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T09:00:12.350Z",
+    "updatedAt": "2026-03-28T09:00:12.350Z",
+    "slug": "nutty-treasures",
+    "__v": 0,
+    "icon": "https://ik.imagekit.io/bf62vomqy/sellzy/categories/icons/nutty-treasures_8BqsuzUzA.svg"
+  }
+]

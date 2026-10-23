@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "69d57dee74b1753896083d0e",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "storeName": "ReactBD",
+    "registrationNumber": "L23232",
+    "description": "Beauty shop",
+    "status": "approved",
+    "contactEmail": "seller@example.com",
+    "contactPhone": "+1 555 0142",
+    "createdAt": "2026-04-07T21:58:06.583Z",
+    "updatedAt": "2026-04-07T22:04:20.254Z",
+    "__v": 0
+  }
+]

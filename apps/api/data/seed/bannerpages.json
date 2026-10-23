@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "698c7d48876af417aaf4d4d6",
+    "title": "Home 1",
+    "slug": "home-1",
+    "description": "Banner for Default Home page",
+    "createdAt": "2026-02-11T12:59:52.957Z",
+    "updatedAt": "2026-02-11T16:47:09.772Z",
+    "__v": 0,
+    "name": "Default Home Page"
+  },
+  {
+    "_id": "698c7d58876af417aaf4d4dc",
+    "title": "Second home page",
+    "slug": "home-2",
+    "description": "",
+    "createdAt": "2026-02-11T13:00:08.366Z",
+    "updatedAt": "2026-02-11T16:47:30.006Z",
+    "__v": 0,
+    "name": "Home 2"
+  },
+  {
+    "_id": "698c7d64876af417aaf4d4e2",
+    "title": "Third Home page",
+    "slug": "home-3",
+    "description": "",
+    "createdAt": "2026-02-11T13:00:20.676Z",
+    "updatedAt": "2026-02-11T16:47:47.793Z",
+    "__v": 0,
+    "name": "Home 3"
+  },
+  {
+    "_id": "698c7d6b876af417aaf4d4e8",
+    "title": "Fourth home page",
+    "slug": "home-4",
+    "description": "",
+    "createdAt": "2026-02-11T13:00:27.871Z",
+    "updatedAt": "2026-02-11T16:48:02.359Z",
+    "__v": 0,
+    "name": "Home 4"
+  },
+  {
+    "_id": "698c7d78876af417aaf4d4ee",
+    "title": "Fifth home page",
+    "slug": "home-5",
+    "description": "",
+    "createdAt": "2026-02-11T13:00:40.936Z",
+    "updatedAt": "2026-02-11T16:48:11.845Z",
+    "__v": 0,
+    "name": "Home 5"
+  }
+]

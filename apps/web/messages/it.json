@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "needSupport": "Hai bisogno di aiuto ?",
+    "callUs": "Chiamaci",
+    "topNav": {
+      "about": "Chi siamo",
+      "account": "Il mio account",
+      "wishlist": "Lista dei desideri",
+      "compare": "Confronta",
+      "tracking": "Tracciamento ordine"
+    },
+    "promotion": {
+      "category": "Categoria Moda",
+      "off": "25% DI SCONTO",
+      "today": "Oggi"
+    }
+  },
+  "SupportInfo": {
+    "freeShipping": {
+      "title": "Spedizione gratuita",
+      "description": "Spedizione gratuita su tutti gli ordini"
+    },
+    "support": {
+      "title": "Supporto 24/7",
+      "description": "Risposta entro 24 ore"
+    },
+    "return": {
+      "title": "Reso in 30 giorni",
+      "description": "Garanzia di rimborso"
+    },
+    "payment": {
+      "title": "Pagamento sicuro",
+      "description": "Pagamento sicuro al 100%"
+    }
+  },
+  "OrderTracking": {
+    "title": "Tracciamento ordine",
+    "subtitle": "Traccia il tuo ordine in tempo reale",
+    "description": "Inserisci il tuo numero d'ordine per vedere lo stato attuale e le informazioni di tracciamento dettagliate della tua spedizione.",
+    "orderIdLabel": "Numero d'ordine",
+    "orderIdPlaceholder": "Inserisci il tuo numero d'ordine",
+    "trackButton": "Traccia ordine",
+    "tracking": "Tracciamento...",
+    "loginRequired": "Effettua l'accesso per tracciare i tuoi ordini",
+    "loginButton": "Accedi",
+    "noOrderId": "Inserisci un numero d'ordine",
+    "orderNotFound": "Ordine non trovato o non hai il permesso di visualizzarlo",
+    "errorFetching": "Impossibile recuperare i dettagli dell'ordine. Riprova.",
+    "orderStatus": "Stato dell'ordine",
+    "orderId": "Numero d'ordine",
+    "orderDate": "Data dell'ordine",
+    "totalAmount": "Importo totale",
+    "paymentStatus": "Stato del pagamento",
+    "paymentMethod": "Metodo di pagamento",
+    "items": "Articoli",
+    "shippingAddress": "Indirizzo di spedizione",
+    "timeline": "Cronologia",
+    "statuses": {
+      "pending": "In attesa",
+      "address_confirmed": "Indirizzo confermato",
+      "confirmed": "Confermato",
+      "packed": "Imballato",
+      "delivering": "In consegna",
+      "delivered": "Consegnato",
+      "completed": "Completato",
+      "cancelled": "Annullato"
+    },
+    "paymentStatuses": {
+      "pending": "In attesa",
+      "paid": "Pagato",
+      "failed": "Fallito",
+      "refunded": "Rimborsato"
+    },
+    "recentOrders": "I tuoi ordini recenti",
+    "noRecentOrders": "Nessun ordine trovato",
+    "viewDetails": "Vedi dettagli",
+    "quantity": "Qtà"
+  }
+}

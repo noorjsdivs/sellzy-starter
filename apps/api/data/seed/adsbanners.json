@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "69b343e95d9a0d72f163ee7a",
+    "name": "Premium",
+    "title": "Healthy Eating & Nutritional Wellness",
+    "description": "Get Extra 50% Off",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_X8RDKihBH.jpg",
+    "link": "/shop",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 1,
+    "createdAt": "2026-03-12T22:53:29.207Z",
+    "updatedAt": "2026-03-14T19:04:15.259Z",
+    "__v": 4,
+    "bgColor": "#A0E2E0",
+    "buttonHref": "/shop",
+    "buttonTitle": "Shop Now",
+    "cardColor": "",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ],
+    "productTypes": [
+      "69a72d6babc424d71093d2e8"
+    ]
+  },
+  {
+    "_id": "69b3497025d8e34d578fd1b4",
+    "name": "Premium",
+    "title": "Healthy Food Habits for Everyday Health",
+    "description": "Get Extra 50% Off",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_apvIDx_L7.jpg",
+    "buttonTitle": "Shop Now",
+    "buttonHref": "/shop",
+    "bgColor": "#FFEB69",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 2,
+    "createdAt": "2026-03-12T23:17:04.034Z",
+    "updatedAt": "2026-03-14T18:53:25.023Z",
+    "__v": 2,
+    "cardColor": "#ffffff",
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ],
+    "productTypes": [
+      "69a72d6babc424d71093d2e8"
+    ]
+  },
+  {
+    "_id": "69b3a5736de3e64a7cb1089b",
+    "name": "Enjoy 20% savings",
+    "title": "Your Daily Store.",
+    "description": "Essentials, deals, and more.",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_bAEl6qOy-.jpg",
+    "buttonTitle": "Shop Now",
+    "buttonHref": "/shop",
+    "bgColor": "#ffffff",
+    "cardColor": "#9EE872",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 1,
+    "productTypes": [
+      "69b3a6f02f803b3d1e69f492"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-13T05:49:39.250Z",
+    "updatedAt": "2026-03-13T06:16:37.724Z",
+    "__v": 1
+  },
+  {
+    "_id": "69b3a7ed2f803b3d1e69f4f0",
+    "name": "Enjoy 25% savings",
+    "title": "Everyday Made Simple.",
+    "description": "Quick, easy, and effortless shopping.",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_A9jqIELW8.jpg",
+    "buttonTitle": "Shop Now",
+    "buttonHref": "",
+    "bgColor": "#ffffff",
+    "cardColor": "#FFD6EF",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 2,
+    "productTypes": [
+      "69b3a6f02f803b3d1e69f492"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-13T06:00:13.920Z",
+    "updatedAt": "2026-03-13T06:00:13.920Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b3a83e2f803b3d1e69f502",
+    "name": "Enjoy 30% savings",
+    "title": "Your Cart. Your Way.",
+    "description": "All your favorites, in one click.",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_LyiUj-8yc.jpg",
+    "buttonTitle": "Shop Now",
+    "buttonHref": "/shop",
+    "bgColor": "#ffffff",
+    "cardColor": "#A0E2E0",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 3,
+    "productTypes": [
+      "69b3a6f02f803b3d1e69f492"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-13T06:01:34.856Z",
+    "updatedAt": "2026-03-13T06:01:34.856Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b50e2c0ff10463a2bc7856",
+    "name": "Enjoy 20% savings",
+    "title": "Unveil Your Natural Glow",
+    "description": "Transform your skincare ritual with our exclusive collection for radiant results.",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_uReYq0KZs.jpg",
+    "buttonTitle": "View All Products",
+    "buttonHref": "/shop",
+    "bgColor": "#ffffff",
+    "cardColor": "#FFC091",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 1,
+    "productTypes": [
+      "69b50b6e0ff10463a2bc72e2"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-14T07:28:44.528Z",
+    "updatedAt": "2026-03-14T07:35:56.613Z",
+    "__v": 1
+  },
+  {
+    "_id": "69b50fd50ff10463a2bc7d4d",
+    "name": "Enjoy 25% savings",
+    "title": "Premium Luxury Glow Picks",
+    "description": "Upgrade your routine with our premium skincare and beauty essentials.",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/ads-banner/upload_hI6TaSa-h.jpg",
+    "buttonTitle": "Shop Now",
+    "buttonHref": "/shop",
+    "bgColor": "#ffffff",
+    "cardColor": "#A4F7CC",
+    "bannerType": "promotional",
+    "isActive": true,
+    "order": 2,
+    "productTypes": [
+      "69b50b6e0ff10463a2bc72e2"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-14T07:35:49.541Z",
+    "updatedAt": "2026-03-14T07:35:49.541Z",
+    "__v": 0
+  }
+]

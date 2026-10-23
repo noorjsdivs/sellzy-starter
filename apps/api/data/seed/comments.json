@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "69b90dd80f62621b6d663459",
+    "blog": "69b903020f62621b6d662b01",
+    "user": "69a8801666268cf7a91e0c5e",
+    "content": "Nice topic",
+    "isActive": true,
+    "createdAt": "2026-03-17T08:16:24.501Z",
+    "updatedAt": "2026-03-17T08:16:24.501Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d954ce8f59218ec4a5984a",
+    "blog": "69b88c94231c76cab2d8337d",
+    "user": "69d79067332489e8d162bd84",
+    "content": "Good to know",
+    "isActive": true,
+    "createdAt": "2026-04-10T19:51:42.284Z",
+    "updatedAt": "2026-04-10T19:51:42.284Z",
+    "__v": 0
+  }
+]

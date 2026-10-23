@@ -1,0 +1,20 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+
+overrides:
+  "@types/react": 19.3.0
+  "@types/react-dom": 19.3.0
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - unrs-resolver
+
+# Libraries in pnpm's store (cmdk, input-otp, react-router, …) resolve React's
+# types from the root, so hoist them there explicitly.
+publicHoistPattern:
+  - "*eslint*"
+  - "*prettier*"
+  - "@types/react"
+  - "@types/react-dom"

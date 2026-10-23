@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "69b88983e12ff86fe509096a",
+    "name": "Noor Mohammad",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/blog-authors/author_noor_mohammad_2vFqjB5v2.jpg",
+    "role": "Contributor",
+    "bio": "",
+    "socialLinks": {
+      "twitter": "https://x.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "facebook": "https://www.facebook.com/",
+      "instagram": "https://www.instagram.com/",
+      "website": "https://www.reactbd.com/"
+    },
+    "isActive": true,
+    "createdAt": "2026-03-16T22:51:47.876Z",
+    "updatedAt": "2026-03-28T08:36:16.312Z",
+    "slug": "noor-mohammad",
+    "__v": 0
+  }
+]

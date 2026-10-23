@@ -1,0 +1,1260 @@
+[
+  {
+    "_id": "69aa0afe629a2ae5f0db548a",
+    "userId": "698a10c634894205d2072308",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69aa0afe629a2ae5f0db548b"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888233/sellzy/products/mokshhkgtfg9qsypqyjh.png",
+        "_id": "69aa0afe629a2ae5f0db548c"
+      },
+      {
+        "productId": "698ccda1b8d43495a8a25a9b",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
+        "price": 26.1,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "_id": "69aa0afe629a2ae5f0db548d"
+      }
+    ],
+    "total": 72.6,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Aisha",
+      "lastName": "Bello",
+      "phoneNumber": "+1 415 555 0103",
+      "emailAddress": "aisha@example.com",
+      "street": "12 Sample Road",
+      "city": "Char Golora",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-03-05T23:00:14.929Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "Order created",
+        "_id": "69aa0afe629a2ae5f0db548e"
+      }
+    ],
+    "createdAt": "2026-03-05T23:00:14.940Z",
+    "updatedAt": "2026-03-05T23:00:14.940Z",
+    "__v": 0
+  },
+  {
+    "_id": "69abcfe36edff693a9de05fc",
+    "userId": "69a87cf4cf42d46c2eefbf00",
+    "items": [
+      {
+        "productId": "69a814839502e855b7e4faf5",
+        "name": "Eska Beauty Care",
+        "price": 45,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
+        "_id": "69abcfe36edff693a9de05fd"
+      },
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "name": "Diesel Whey Protein 2kg combo jar",
+        "price": 108,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "_id": "69abcfe36edff693a9de05fe"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69abcfe36edff693a9de05ff"
+      }
+    ],
+    "total": 186,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Char Golora",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-03-07T07:12:35.859Z",
+        "changed_by": {
+          "id": "69a87cf4cf42d46c2eefbf00",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69abcfe36edff693a9de0600"
+      }
+    ],
+    "createdAt": "2026-03-07T07:12:35.864Z",
+    "updatedAt": "2026-03-07T07:12:35.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "69ce99d6f1f5b4f236bc3ea6",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698ccda1b8d43495a8a25a9b",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
+        "price": 29,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "_id": "69ce99d6f1f5b4f236bc3ea7"
+      }
+    ],
+    "total": 44,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-02T16:31:18.776Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69ce99d6f1f5b4f236bc3ea8"
+      }
+    ],
+    "createdAt": "2026-04-02T16:31:18.790Z",
+    "updatedAt": "2026-04-02T16:31:18.790Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf3a606ea91da5c8a52ecb",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "name": "Diesel Whey Protein 2kg combo jar",
+        "price": 108,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "_id": "69cf3a606ea91da5c8a52ecc"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf3a606ea91da5c8a52ecd"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69cf3a606ea91da5c8a52ece"
+      }
+    ],
+    "total": 159,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T03:56:16.264Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf3a606ea91da5c8a52ecf"
+      }
+    ],
+    "createdAt": "2026-04-03T03:56:16.277Z",
+    "updatedAt": "2026-04-03T03:56:16.277Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf3b8870d37deaef70e404",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a74fb01ee044148eb374a4",
+        "name": "Digital blood pressure monitor wrist",
+        "price": 108,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
+        "_id": "69cf3b8870d37deaef70e405"
+      },
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "name": "Diesel Whey Protein 2kg combo jar",
+        "price": 108,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "_id": "69cf3b8870d37deaef70e406"
+      }
+    ],
+    "total": 231,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T04:01:12.386Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf3b8870d37deaef70e407"
+      }
+    ],
+    "createdAt": "2026-04-03T04:01:12.394Z",
+    "updatedAt": "2026-04-03T04:01:12.394Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf3ed2853fe145aaed59d9",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf3ed2853fe145aaed59da"
+      }
+    ],
+    "total": 33,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T04:15:14.324Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf3ed2853fe145aaed59db"
+      }
+    ],
+    "createdAt": "2026-04-03T04:15:14.335Z",
+    "updatedAt": "2026-04-03T04:15:14.335Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf40491ae7c75e3edfb08e",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69cf40491ae7c75e3edfb08f"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf40491ae7c75e3edfb090"
+      }
+    ],
+    "total": 46.5,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T04:21:29.355Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf40491ae7c75e3edfb091"
+      }
+    ],
+    "createdAt": "2026-04-03T04:21:29.368Z",
+    "updatedAt": "2026-04-03T04:21:29.368Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf56761b1f1f3bbc379bd4",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69cf56761b1f1f3bbc379bd5"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf56761b1f1f3bbc379bd6"
+      }
+    ],
+    "total": 46.5,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T05:56:06.094Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf56761b1f1f3bbc379bd7"
+      }
+    ],
+    "createdAt": "2026-04-03T05:56:06.107Z",
+    "updatedAt": "2026-04-03T05:56:06.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf56841b1f1f3bbc379be4",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69cf56841b1f1f3bbc379be5"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf56841b1f1f3bbc379be6"
+      }
+    ],
+    "total": 46.5,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T05:56:20.118Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf56841b1f1f3bbc379be7"
+      }
+    ],
+    "createdAt": "2026-04-03T05:56:20.122Z",
+    "updatedAt": "2026-04-03T05:56:20.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "69cf56b8706fa4ccdf2e310e",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69cf585a88845f26a423d573"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69cf585a88845f26a423d574"
+      }
+    ],
+    "subtotal": 31.5,
+    "tax": 0,
+    "shipping": 0,
+    "total": 31.5,
+    "status": "completed",
+    "paymentStatus": "paid",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T05:57:12.616Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cf56b8706fa4ccdf2e3111"
+      },
+      {
+        "status": "address_confirmed",
+        "changed_at": "2026-04-03T06:03:05.601Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf581988845f26a423d404"
+      },
+      {
+        "status": "confirmed",
+        "changed_at": "2026-04-03T06:03:14.347Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf582288845f26a423d43a"
+      },
+      {
+        "status": "packed",
+        "changed_at": "2026-04-03T06:03:23.644Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf582b88845f26a423d473"
+      },
+      {
+        "status": "delivering",
+        "changed_at": "2026-04-03T06:03:33.644Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf583588845f26a423d4af"
+      },
+      {
+        "status": "delivered",
+        "changed_at": "2026-04-03T06:03:44.536Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf584088845f26a423d4ee"
+      },
+      {
+        "status": "completed",
+        "changed_at": "2026-04-03T06:03:54.749Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf584a88845f26a423d530"
+      },
+      {
+        "status": "completed",
+        "changed_at": "2026-04-03T06:04:10.622Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69cf585a88845f26a423d575"
+      }
+    ],
+    "createdAt": "2026-04-03T05:57:12.623Z",
+    "updatedAt": "2026-04-03T06:04:10.622Z",
+    "__v": 0,
+    "status_updates": {
+      "address_confirmed": {
+        "at": "2026-04-03T06:03:05.601Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "order_confirmed": {
+        "at": "2026-04-03T06:03:14.347Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "packed": {
+        "at": "2026-04-03T06:03:23.644Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "delivering": {
+        "at": "2026-04-03T06:03:33.644Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "delivered": {
+        "at": "2026-04-03T06:03:44.536Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "completed": {
+        "at": "2026-04-03T06:04:10.622Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      }
+    }
+  },
+  {
+    "_id": "69cfcc3dad3c72c0444c179e",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a814839502e855b7e4faf5",
+        "name": "Eska Beauty Care",
+        "price": 45,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/eska-beauty-care/product_eska_beauty_care_1_OPEeAFOXE.jpg",
+        "_id": "69cfcc3dad3c72c0444c179f"
+      },
+      {
+        "productId": "69b584698cea2b0cdbd148c3",
+        "name": "Ren Evercalm Lotion for dark skin",
+        "price": 70.2,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/ren-evercalm-lotion-for-dark-skin/product_ren_evercalm_lotion_for_dark_skin_1_oZ8d0tNHV.jpg",
+        "_id": "69cfcc3dad3c72c0444c17a0"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69cfcc3dad3c72c0444c17a1"
+      }
+    ],
+    "subtotal": 133.2,
+    "tax": 0,
+    "shipping": 0,
+    "total": 133.2,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-03T14:18:37.882Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69cfcc3dad3c72c0444c17a2"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": false,
+    "createdAt": "2026-04-03T14:18:37.894Z",
+    "updatedAt": "2026-04-03T14:18:37.894Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d0b4eeebec3a4c9a15c525",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698ccda1b8d43495a8a25a9b",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max Strength",
+        "price": 26.1,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max-strength/product_vitalife_omega-3_softgels_heart_support_max_strength_1_vY_PF802u.jpg",
+        "_id": "69d0b54097648f49e2e903ed"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69d0b54097648f49e2e903ee"
+      },
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69d0b54097648f49e2e903ef"
+      }
+    ],
+    "subtotal": 57.6,
+    "tax": 0,
+    "shipping": 0,
+    "total": 57.6,
+    "status": "completed",
+    "paymentStatus": "paid",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-04T06:51:26.133Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69d0b4eeebec3a4c9a15c529"
+      },
+      {
+        "status": "address_confirmed",
+        "changed_at": "2026-04-04T06:52:14.822Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69d0b51e97648f49e2e9035d"
+      },
+      {
+        "status": "confirmed",
+        "changed_at": "2026-04-04T06:52:24.091Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69d0b52897648f49e2e903a5"
+      },
+      {
+        "status": "completed",
+        "changed_at": "2026-04-04T06:52:48.292Z",
+        "changed_by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        },
+        "notes": "",
+        "_id": "69d0b54097648f49e2e903f0"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": false,
+    "createdAt": "2026-04-04T06:51:26.142Z",
+    "updatedAt": "2026-04-04T06:52:48.292Z",
+    "__v": 0,
+    "paidAt": "2026-04-04T06:51:48.711Z",
+    "paymentIntentId": "pi_3TIO3b5jLyoIS9080BL2hoYE",
+    "payment_info": {
+      "gateway": "stripe",
+      "stripe": {
+        "paymentIntentId": "pi_3TIO3b5jLyoIS9080BL2hoYE",
+        "sessionId": "cs_test_a1j6WSIokunFSBVTAgyLW1va61jgauNqAibQEpfQuHqPdpcQqzl7Mx4C9b"
+      },
+      "paidAmount": 57.6,
+      "currency": "USD",
+      "paidAt": "2026-04-04T06:51:48.711Z"
+    },
+    "stripeSessionId": "cs_test_a1j6WSIokunFSBVTAgyLW1va61jgauNqAibQEpfQuHqPdpcQqzl7Mx4C9b",
+    "status_updates": {
+      "address_confirmed": {
+        "at": "2026-04-04T06:52:14.822Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "order_confirmed": {
+        "at": "2026-04-04T06:52:24.091Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      },
+      "completed": {
+        "at": "2026-04-04T06:52:48.292Z",
+        "by": {
+          "id": "698a10c634894205d2072308",
+          "name": "Admin"
+        }
+      }
+    }
+  },
+  {
+    "_id": "69d0b6deebec3a4c9a15c69a",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69d0b6deebec3a4c9a15c69b"
+      },
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69d0b6deebec3a4c9a15c69c"
+      }
+    ],
+    "subtotal": 31.5,
+    "tax": 0,
+    "shipping": 0,
+    "total": 31.5,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-04T06:59:42.449Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69d0b6deebec3a4c9a15c69d"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": false,
+    "createdAt": "2026-04-04T06:59:42.452Z",
+    "updatedAt": "2026-04-04T06:59:42.452Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d13268ac760c820c60a8ca",
+    "userId": "69cead275648dc84216dc2aa",
+    "items": [
+      {
+        "productId": "69a74c39f2b8e2013037382d",
+        "name": "Pink Face Cream Tube",
+        "price": 27,
+        "quantity": 2,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/pink-face-cream-tube/product_pink_face_cream_tube_1_hyzG_RlTj.jpg",
+        "_id": "69d13268ac760c820c60a8cb"
+      },
+      {
+        "productId": "69a74aad46561567178d4a2c",
+        "name": "Curology Cleanser",
+        "price": 72,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/curology-cleanser/product_curology_cleanser_1_8T5nvFPqi.jpg",
+        "_id": "69d13268ac760c820c60a8cc"
+      },
+      {
+        "productId": "69a74ca4f2b8e2013037384b",
+        "name": "Livpure Hand Sanitizer",
+        "price": 24.3,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772571893/sellzy/products/nxzb0crseq7go5ymilgl.png",
+        "_id": "69d13268ac760c820c60a8cd"
+      },
+      {
+        "productId": "69b37394ba01f867f37e1b70",
+        "name": "Natural Lipstick Green for glow and shiny lips",
+        "price": 89,
+        "quantity": 7,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/natural-lipstick-green-for-glow-and-shiny-lips/product_natural_lipstick_green_for_glow_and_shiny_lips_1_azZhli7We.jpg",
+        "_id": "69d13268ac760c820c60a8ce"
+      }
+    ],
+    "subtotal": 773.3,
+    "tax": 0,
+    "shipping": 0,
+    "total": 773.3,
+    "status": "confirmed",
+    "paymentStatus": "pending",
+    "paymentMethod": "cod",
+    "shippingAddress": {
+      "firstName": "Jordan",
+      "lastName": "Lee",
+      "phoneNumber": "+1 415 555 0108",
+      "emailAddress": "jordan@example.com",
+      "street": "12 Sample Road",
+      "city": "Dhaka",
+      "state": "Dhaka Division",
+      "country": "Bangladesh",
+      "postalCode": "1207",
+      "zipCode": "1207"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 773.3,
+    "status_history": [
+      {
+        "status": "confirmed",
+        "changed_at": "2026-04-04T15:46:48.945Z",
+        "changed_by": {
+          "id": "69cead275648dc84216dc2aa",
+          "name": "Jordan Lee"
+        },
+        "notes": "COD order created and confirmed",
+        "_id": "69d13268ac760c820c60a8cf"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": true,
+    "createdAt": "2026-04-04T15:46:48.952Z",
+    "updatedAt": "2026-04-04T15:46:48.952Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d38b8076455cd7da926f20",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "name": "Diesel Whey Protein 2kg combo jar",
+        "price": 108,
+        "quantity": 6,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "_id": "69d38b8076455cd7da926f21"
+      },
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69d38b8076455cd7da926f22"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 3,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69d38b8076455cd7da926f23"
+      },
+      {
+        "productId": "69a73cdac565ec71e8ea6fce",
+        "name": "Apple Health Juice 100ml premium pack",
+        "price": 4.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572922/sellzy/products/svqdyf6xneup0msb8krh.png",
+        "_id": "69d38b8076455cd7da926f24"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69d38b8076455cd7da926f25"
+      }
+    ],
+    "subtotal": 738,
+    "tax": 0,
+    "shipping": 0,
+    "total": 738,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-06T10:31:28.620Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69d38b8076455cd7da926f26"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": false,
+    "createdAt": "2026-04-06T10:31:28.627Z",
+    "updatedAt": "2026-04-06T10:31:28.627Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d56f4e79686c2db1a22a4c",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "69a74f411ee044148eb37488",
+        "name": "Diesel Whey Protein 2kg combo jar",
+        "price": 108,
+        "quantity": 7,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/diesel-whey-protein-2kg-combo-jar/product_diesel_whey_protein_2kg_combo_jar_1_b1Tpikc9Z.jpg",
+        "_id": "69d56f4e79686c2db1a22a4d"
+      },
+      {
+        "productId": "698d9cc06ed4a3b4f79e3429",
+        "name": "Vitamin B2 Tablet with supplement",
+        "price": 13.5,
+        "quantity": 3,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1770888383/sellzy/products/ldgjx17mnx63pcvo9xga.png",
+        "_id": "69d56f4e79686c2db1a22a4e"
+      },
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 3,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69d56f4e79686c2db1a22a4f"
+      },
+      {
+        "productId": "69a73cdac565ec71e8ea6fce",
+        "name": "Apple Health Juice 100ml premium pack",
+        "price": 4.5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572922/sellzy/products/svqdyf6xneup0msb8krh.png",
+        "_id": "69d56f4e79686c2db1a22a50"
+      },
+      {
+        "productId": "69a74eed1ee044148eb37463",
+        "name": "Dabur Honitus Cough Remedy",
+        "price": 18,
+        "quantity": 2,
+        "image": "https://res.cloudinary.com/dxkhdqifr/image/upload/v1772572391/sellzy/products/hw04gyhp35jafrmgw3n9.png",
+        "_id": "69d56f4e79686c2db1a22a51"
+      },
+      {
+        "productId": "69a74fb01ee044148eb374a4",
+        "name": "Digital blood pressure monitor wrist",
+        "price": 108,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/digital-blood-pressure-monitor-wrist/product_digital_blood_pressure_monitor_wrist_1_XoN-sITDc.jpg",
+        "_id": "69d56f4e79686c2db1a22a52"
+      }
+    ],
+    "subtotal": 999,
+    "tax": 0,
+    "shipping": 0,
+    "total": 999,
+    "status": "confirmed",
+    "paymentStatus": "pending",
+    "paymentMethod": "cod",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 999,
+    "status_history": [
+      {
+        "status": "confirmed",
+        "changed_at": "2026-04-07T20:55:42.126Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "COD order created and confirmed",
+        "_id": "69d56f4e79686c2db1a22a53"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": true,
+    "createdAt": "2026-04-07T20:55:42.137Z",
+    "updatedAt": "2026-04-07T20:55:42.137Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d571cc4829318518422635",
+    "userId": "69a8801666268cf7a91e0c5e",
+    "items": [
+      {
+        "productId": "698d9c2a6ed4a3b4f79e31a3",
+        "name": "VitaLife Omega-3 Softgels Heart Support Max",
+        "price": 18,
+        "quantity": 1,
+        "image": "https://ik.imagekit.io/bf62vomqy/sellzy/products/vitalife-omega-3-softgels-heart-support-max/product_vitalife_omega-3_softgels_heart_support_max_1_BSnYLpo3_.jpg",
+        "_id": "69d571cc4829318518422636"
+      }
+    ],
+    "subtotal": 18,
+    "tax": 0,
+    "shipping": 0,
+    "total": 18,
+    "status": "pending",
+    "paymentStatus": "pending",
+    "paymentMethod": "stripe",
+    "shippingAddress": {
+      "firstName": "Maya",
+      "lastName": "Chen",
+      "phoneNumber": "+1 415 555 0142",
+      "emailAddress": "maya@example.com",
+      "street": "12 Sample Road",
+      "city": "Bhairab Bāzār",
+      "state": "Dhaka District",
+      "country": "Bangladesh",
+      "postalCode": "1216",
+      "zipCode": "1216"
+    },
+    "assignedPacker": null,
+    "assignedDeliveryman": null,
+    "codAmount": 0,
+    "status_history": [
+      {
+        "status": "pending",
+        "changed_at": "2026-04-07T21:06:20.980Z",
+        "changed_by": {
+          "id": "69a8801666268cf7a91e0c5e",
+          "name": "Maya Chen"
+        },
+        "notes": "Order created",
+        "_id": "69d571cc4829318518422637"
+      }
+    ],
+    "qcStatus": "unneeded",
+    "stockReduced": false,
+    "createdAt": "2026-04-07T21:06:20.985Z",
+    "updatedAt": "2026-04-07T21:06:20.985Z",
+    "__v": 0
+  }
+]

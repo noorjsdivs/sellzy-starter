@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "698daa23f8155a64a9b8c48a",
+    "name": "Red",
+    "value": "#ff0000",
+    "displayOrder": 0,
+    "createdAt": "2026-02-12T10:23:31.176Z",
+    "updatedAt": "2026-02-12T10:23:31.176Z",
+    "slug": "red",
+    "__v": 0
+  },
+  {
+    "_id": "698daa37f8155a64a9b8c490",
+    "name": "Green",
+    "value": "#00ff2a",
+    "displayOrder": 1,
+    "createdAt": "2026-02-12T10:23:51.450Z",
+    "updatedAt": "2026-02-12T10:30:37.769Z",
+    "slug": "green",
+    "__v": 0
+  },
+  {
+    "_id": "698dabbff8155a64a9b8c496",
+    "name": "White",
+    "value": "#ffffff",
+    "displayOrder": 2,
+    "createdAt": "2026-02-12T10:30:23.308Z",
+    "updatedAt": "2026-02-12T10:30:23.308Z",
+    "slug": "white",
+    "__v": 0
+  },
+  {
+    "_id": "698dabecf8155a64a9b8c4a0",
+    "name": "Blue",
+    "value": "#1100ff",
+    "displayOrder": 3,
+    "createdAt": "2026-02-12T10:31:08.342Z",
+    "updatedAt": "2026-02-12T10:31:08.342Z",
+    "slug": "blue",
+    "__v": 0
+  },
+  {
+    "_id": "698dac02f8155a64a9b8c4a6",
+    "name": "Pink",
+    "value": "#ff00c8",
+    "displayOrder": 4,
+    "createdAt": "2026-02-12T10:31:30.478Z",
+    "updatedAt": "2026-02-12T10:31:30.478Z",
+    "slug": "pink",
+    "__v": 0
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "698da9b3f8155a64a9b8c46a",
+    "name": "Small",
+    "value": "sm",
+    "displayOrder": 0,
+    "createdAt": "2026-02-12T10:21:39.234Z",
+    "updatedAt": "2026-02-12T10:21:39.234Z",
+    "slug": "sm",
+    "__v": 0
+  },
+  {
+    "_id": "698da9cff8155a64a9b8c470",
+    "name": "Medium",
+    "value": "md",
+    "displayOrder": 1,
+    "createdAt": "2026-02-12T10:22:07.016Z",
+    "updatedAt": "2026-02-12T10:22:07.016Z",
+    "slug": "md",
+    "__v": 0
+  },
+  {
+    "_id": "698da9dcf8155a64a9b8c476",
+    "name": "Large",
+    "value": "lg",
+    "displayOrder": 3,
+    "createdAt": "2026-02-12T10:22:20.328Z",
+    "updatedAt": "2026-02-12T10:22:20.328Z",
+    "slug": "lg",
+    "__v": 0
+  },
+  {
+    "_id": "698da9edf8155a64a9b8c47c",
+    "name": "Extra large",
+    "value": "xl",
+    "displayOrder": 4,
+    "createdAt": "2026-02-12T10:22:37.636Z",
+    "updatedAt": "2026-02-12T10:22:37.636Z",
+    "slug": "xl",
+    "__v": 0
+  },
+  {
+    "_id": "698daa08f8155a64a9b8c482",
+    "name": "2X Extra Large",
+    "value": "2xl",
+    "displayOrder": 0,
+    "createdAt": "2026-02-12T10:23:04.673Z",
+    "updatedAt": "2026-02-12T10:23:04.673Z",
+    "slug": "2xl",
+    "__v": 0
+  }
+]

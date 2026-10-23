@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "69d7f50b4ffd88a6acf484bb",
+    "name": "Emily Rodriguez",
+    "date": "12:47 AM, Apr 10, 2026",
+    "rating": 5,
+    "text": "This is my third time ordering and they never disappoint. The quality of the items is consistently high and shipping is always on time. ",
+    "avatar": "https://ik.imagekit.io/bf62vomqy/sellzy/customer-reviews/emily-rodriguez_OW03q_T9u.webp",
+    "isVerified": true,
+    "isActive": true,
+    "createdAt": "2026-04-09T18:50:51.343Z",
+    "updatedAt": "2026-04-09T18:50:51.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7f58c4ffd88a6acf485ce",
+    "name": "Sarah Jenkins",
+    "date": "9:30 PM, March 27, 2026",
+    "rating": 4.5,
+    "text": "Absolutely fantastic customer service. They answered all my queries quickly and the delivery was incredibly swift. I'll definitely be shopping here again.",
+    "avatar": "https://ik.imagekit.io/bf62vomqy/sellzy/customer-reviews/sarah-jenkins_L34QiPnj1.webp",
+    "isVerified": true,
+    "isActive": true,
+    "createdAt": "2026-04-09T18:53:00.424Z",
+    "updatedAt": "2026-04-09T18:53:00.424Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7f5b94ffd88a6acf485d3",
+    "name": "James Smith",
+    "date": "12:53 AM, Apr 10, 2026",
+    "rating": 4.5,
+    "text": "From browsing to checkout, everything was super easy. Loved how I didn’t have to pay anything extra for shipping, and my item arrived the next day. Highly recommend! ",
+    "avatar": "https://ik.imagekit.io/bf62vomqy/sellzy/customer-reviews/james-smith_cmk47BWaa.webp",
+    "isVerified": true,
+    "isActive": true,
+    "createdAt": "2026-04-09T18:53:45.369Z",
+    "updatedAt": "2026-04-09T18:53:45.369Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d7f5e74ffd88a6acf485d8",
+    "name": "Robert Fox",
+    "date": "12:53 AM, Apr 10, 2026",
+    "rating": 4,
+    "text": "I was honestly surprised at how fast the delivery was. The product came well-packaged and exactly as described. Great quality, and the free fast shipping made the experience even better!",
+    "avatar": "https://ik.imagekit.io/bf62vomqy/sellzy/customer-reviews/robert-fox_cSyi1EEyV.webp",
+    "isVerified": true,
+    "isActive": true,
+    "createdAt": "2026-04-09T18:54:31.440Z",
+    "updatedAt": "2026-04-09T18:54:31.440Z",
+    "__v": 0
+  }
+]

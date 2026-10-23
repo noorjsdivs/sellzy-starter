@@ -1,0 +1,25 @@
+{
+  "name": "sellzy-ecommerce",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "dev:api": "turbo run dev --filter=@sellzy/api",
+    "dev:web": "turbo run dev --filter=@sellzy/web",
+    "dev:admin": "turbo run dev --filter=@sellzy/admin",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "check-types": "turbo run check-types",
+    "clean": "rm -rf .turbo node_modules/.cache apps/*/.turbo apps/*/.next apps/*/dist apps/*/node_modules/.cache",
+    "seed": "turbo run seed --filter=@sellzy/api"
+  },
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "turbo": "^2.11.9",
+    "typescript": "6.0.3"
+  },
+  "packageManager": "pnpm@10.29.3"
+}

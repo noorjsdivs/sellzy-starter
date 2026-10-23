@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "69b88998e12ff86fe5090978",
+    "name": "Healthcare",
+    "description": "",
+    "isActive": true,
+    "order": 1,
+    "createdAt": "2026-03-16T22:52:08.111Z",
+    "updatedAt": "2026-03-16T22:52:08.111Z",
+    "slug": "healthcare",
+    "__v": 0
+  },
+  {
+    "_id": "69c78e5d1f036e5d54796d3a",
+    "name": "Beauty",
+    "description": "",
+    "isActive": true,
+    "order": 2,
+    "createdAt": "2026-03-28T08:16:29.398Z",
+    "updatedAt": "2026-03-28T08:16:29.398Z",
+    "slug": "beauty",
+    "__v": 0
+  }
+]

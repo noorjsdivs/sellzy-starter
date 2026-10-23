@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "needSupport": "Besoin d'aide ?",
+    "callUs": "Appelez-nous",
+    "topNav": {
+      "about": "À propos",
+      "account": "Mon compte",
+      "wishlist": "Liste de souhaits",
+      "compare": "Comparer",
+      "tracking": "Suivi de commande"
+    },
+    "promotion": {
+      "category": "Catégorie Mode",
+      "off": "25% DE RÉDUCTION",
+      "today": "Aujourd'hui"
+    }
+  },
+  "SupportInfo": {
+    "freeShipping": {
+      "title": "Livraison gratuite",
+      "description": "Livraison gratuite sur toutes les commandes"
+    },
+    "support": {
+      "title": "Support 24/7",
+      "description": "Réponse sous 24 heures"
+    },
+    "return": {
+      "title": "Retour sous 30 jours",
+      "description": "Garantie de remboursement"
+    },
+    "payment": {
+      "title": "Paiement sécurisé",
+      "description": "Paiement 100% sécurisé"
+    }
+  },
+  "OrderTracking": {
+    "title": "Suivi de commande",
+    "subtitle": "Suivez votre commande en temps réel",
+    "description": "Entrez votre numéro de commande pour voir le statut actuel et les informations de suivi détaillées de votre expédition.",
+    "orderIdLabel": "Numéro de commande",
+    "orderIdPlaceholder": "Entrez votre numéro de commande",
+    "trackButton": "Suivre la commande",
+    "tracking": "Suivi en cours...",
+    "loginRequired": "Veuillez vous connecter pour suivre vos commandes",
+    "loginButton": "Se connecter",
+    "noOrderId": "Veuillez entrer un numéro de commande",
+    "orderNotFound": "Commande introuvable ou vous n'avez pas la permission de la consulter",
+    "errorFetching": "Impossible de récupérer les détails de la commande. Veuillez réessayer.",
+    "orderStatus": "Statut de la commande",
+    "orderId": "Numéro de commande",
+    "orderDate": "Date de commande",
+    "totalAmount": "Montant total",
+    "paymentStatus": "Statut du paiement",
+    "paymentMethod": "Mode de paiement",
+    "items": "Articles",
+    "shippingAddress": "Adresse de livraison",
+    "timeline": "Chronologie",
+    "statuses": {
+      "pending": "En attente",
+      "address_confirmed": "Adresse confirmée",
+      "confirmed": "Confirmée",
+      "packed": "Emballée",
+      "delivering": "En livraison",
+      "delivered": "Livrée",
+      "completed": "Terminée",
+      "cancelled": "Annulée"
+    },
+    "paymentStatuses": {
+      "pending": "En attente",
+      "paid": "Payé",
+      "failed": "Échoué",
+      "refunded": "Remboursé"
+    },
+    "recentOrders": "Vos commandes récentes",
+    "noRecentOrders": "Aucune commande trouvée",
+    "viewDetails": "Voir les détails",
+    "quantity": "Qté"
+  }
+}

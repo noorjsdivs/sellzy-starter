@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "69d0c908ed0e2999ef5cdf17",
+    "name": "Green Valley Supplies",
+    "email": "supplier@example.com",
+    "address": "12 Market Road",
+    "paymentSystem": "bank-transfer",
+    "isActive": true,
+    "createdBy": {
+      "id": "698a10c634894205d2072308",
+      "name": "Admin"
+    },
+    "createdAt": "2026-04-04T08:17:12.917Z",
+    "updatedAt": "2026-04-04T08:17:12.917Z",
+    "__v": 0
+  }
+]

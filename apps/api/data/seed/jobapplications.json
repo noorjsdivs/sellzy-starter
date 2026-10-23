@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "69d80047d75e3e80c7182d35",
+    "careerId": "69d7fbdfcbd3510b1a4e1eb6",
+    "firstName": "Alex",
+    "lastName": "Morgan",
+    "email": "alex.morgan@example.com",
+    "phone": "+1 555 0110",
+    "resumeUrl": "https://example.com/resume.pdf",
+    "portfolioUrl": "https://example.com/portfolio",
+    "coverLetter": "I'd love to join the team. My portfolio and résumé are linked below.",
+    "status": "Reviewed",
+    "createdAt": "2026-04-09T19:38:47.954Z",
+    "updatedAt": "2026-04-10T14:43:11.576Z",
+    "__v": 0
+  },
+  {
+    "_id": "69d95b678f59218ec4a5a3df",
+    "careerId": "69d7fbdfcbd3510b1a4e1eb6",
+    "firstName": "Sam",
+    "lastName": "Taylor",
+    "email": "sam.taylor@example.com",
+    "phone": "+1 555 0111",
+    "resumeUrl": "https://example.com/resume.pdf",
+    "portfolioUrl": "https://example.com/portfolio",
+    "coverLetter": "I'd love to join the team. My portfolio and résumé are linked below.",
+    "status": "Reviewed",
+    "createdAt": "2026-04-10T20:19:51.095Z",
+    "updatedAt": "2026-04-10T20:20:43.839Z",
+    "__v": 0
+  }
+]

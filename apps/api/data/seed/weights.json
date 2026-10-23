@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "698dad3af8155a64a9b8c4ae",
+    "name": "Half Kg",
+    "value": "500",
+    "displayOrder": 0,
+    "createdAt": "2026-02-12T10:36:42.347Z",
+    "updatedAt": "2026-02-12T10:37:05.433Z",
+    "slug": "500",
+    "__v": 0
+  },
+  {
+    "_id": "698dad49f8155a64a9b8c4b4",
+    "name": "1 Kg",
+    "value": "1000",
+    "displayOrder": 1,
+    "createdAt": "2026-02-12T10:36:57.490Z",
+    "updatedAt": "2026-02-12T10:37:12.731Z",
+    "slug": "1000",
+    "__v": 0
+  }
+]

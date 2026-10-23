@@ -1,0 +1,425 @@
+[
+  {
+    "_id": "698ccc9f798706956d6d04ce",
+    "name": "discount",
+    "slug": "discount",
+    "type": "test",
+    "title": "Daily Discount You'll Love",
+    "description": "Best discounted collection",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 2,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8"
+    ],
+    "createdAt": "2026-02-11T18:38:23.860Z",
+    "updatedAt": "2026-03-03T20:24:22.664Z",
+    "__v": 3,
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a496b145fc2f5c37e9a201",
+    "name": "Best Selling",
+    "slug": "best-selling",
+    "title": "Best Selling Products",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 3,
+    "bgColor": "#9EE872",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "createdAt": "2026-03-01T19:42:41.018Z",
+    "updatedAt": "2026-03-03T04:52:28.326Z",
+    "__v": 1,
+    "productBases": [
+      "69a663a850f68158c5623580",
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a50920bab147e124af3fbf",
+    "name": "Top Selling Products",
+    "slug": "top-selling-products",
+    "title": "Top Selling Products",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 5,
+    "bgColor": "#FFEB69",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "createdAt": "2026-03-02T03:50:56.927Z",
+    "updatedAt": "2026-03-03T04:52:14.178Z",
+    "__v": 1,
+    "productBases": [
+      "69a663a850f68158c5623580",
+      "69a6639c50f68158c562357b"
+    ]
+  },
+  {
+    "_id": "69a5096fbab147e124af3fc6",
+    "name": "Newly Lunch Products",
+    "slug": "newly-lunch-products",
+    "title": "Newly Lunch Products",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 7,
+    "bgColor": "#CAF8E4",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "createdAt": "2026-03-02T03:52:15.498Z",
+    "updatedAt": "2026-03-16T18:47:25.451Z",
+    "__v": 1,
+    "productBases": [
+      "69a663a850f68158c5623580",
+      "69a6639c50f68158c562357b"
+    ],
+    "productBasesBg": {
+      "69a663a850f68158c5623580": "#FFEB69",
+      "beauty": "#FFEB69"
+    }
+  },
+  {
+    "_id": "69a5f7baca3b67dfffeea3e0",
+    "name": "Limited Time Offer",
+    "slug": "limited-time-offer",
+    "title": "Hot Deals This Week",
+    "description": "Weekly deals are back and better than ever, bringing fresh new offers. Your daily routine and elevate your beauty experience. Don’t miss out on these limited-time savings!",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "createdAt": "2026-03-02T20:48:58.185Z",
+    "updatedAt": "2026-03-03T04:51:47.389Z",
+    "__v": 1,
+    "productBases": [
+      "69a6639c50f68158c562357b",
+      "69a663a850f68158c5623580"
+    ]
+  },
+  {
+    "_id": "69a611265114ee3816c68121",
+    "name": "Beauty Products",
+    "slug": "beauty-products",
+    "title": "Beauty Products",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#FFD6EF",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "createdAt": "2026-03-02T22:37:26.435Z",
+    "updatedAt": "2026-03-03T04:51:54.876Z",
+    "__v": 2,
+    "productBases": [
+      "69a6639c50f68158c562357b",
+      "69a663a850f68158c5623580"
+    ]
+  },
+  {
+    "_id": "69a66cc44b6e0c13e5a9de36",
+    "name": "Shop By Category",
+    "slug": "shop-by-category",
+    "title": "Shop By Category",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 2,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc",
+      "698c7d48876af417aaf4d4d6"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580",
+      "69a6639c50f68158c562357b"
+    ],
+    "createdAt": "2026-03-03T05:08:20.015Z",
+    "updatedAt": "2026-03-03T20:25:00.337Z",
+    "__v": 1
+  },
+  {
+    "_id": "69a67ccbcdd574de7d293a2e",
+    "name": "Today’s Top Offer",
+    "slug": "todays-top-offer",
+    "title": "Today’s Top Offer",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 2,
+    "bgColor": "#FFD6EF",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-03T06:16:43.343Z",
+    "updatedAt": "2026-03-03T06:16:43.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a69317cdd574de7d293eb5",
+    "name": "Limited Time Deal",
+    "slug": "limited-time-deal",
+    "title": "Limited Time Deal",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-03T07:51:51.392Z",
+    "updatedAt": "2026-03-03T07:51:51.392Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a72d4dabc424d71093d2e1",
+    "name": "Three Row Banner",
+    "slug": "three-row-banner",
+    "title": "Three Row Banner",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6"
+    ],
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ],
+    "createdAt": "2026-03-03T18:49:49.289Z",
+    "updatedAt": "2026-03-03T20:07:23.193Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a72d6babc424d71093d2e8",
+    "name": "Tow Row Banner",
+    "slug": "tow-row-banner",
+    "title": "Two Row Banner",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6"
+    ],
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ],
+    "createdAt": "2026-03-03T18:50:19.460Z",
+    "updatedAt": "2026-03-03T20:07:13.356Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a72d94abc424d71093d2ef",
+    "name": "Latest Blogs 4 Row",
+    "slug": "latest-blogs-4-row",
+    "title": "Latest Blogs",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 0,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6"
+    ],
+    "productBases": [
+      "69a6639c50f68158c562357b"
+    ],
+    "createdAt": "2026-03-03T18:51:00.090Z",
+    "updatedAt": "2026-03-03T18:51:00.090Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b37186ba01f867f37e199b",
+    "name": "Most Loved Products",
+    "slug": "most-loved-products",
+    "title": "Most Loved Products",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 4,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-13T02:08:06.720Z",
+    "updatedAt": "2026-03-16T21:15:45.108Z",
+    "__v": 0,
+    "productBasesBg": {
+      "beauty": "#92BDF5"
+    }
+  },
+  {
+    "_id": "69b3a6f02f803b3d1e69f492",
+    "name": "Product Three Column Ads Banner",
+    "slug": "product-three-column-ads-banner",
+    "title": "",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 5,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-13T05:56:01.001Z",
+    "updatedAt": "2026-03-13T05:56:01.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "69b50b6e0ff10463a2bc72e2",
+    "name": "Product Two Column Ads Banner",
+    "slug": "product-two-column-ads-banner",
+    "title": "",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 6,
+    "bgColor": "#ffffff",
+    "bannerPages": [
+      "698c7d58876af417aaf4d4dc"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-14T07:17:02.394Z",
+    "updatedAt": "2026-03-14T07:29:16.538Z",
+    "__v": 0
+  },
+  {
+    "_id": "69c784aed73415bacf438160",
+    "name": "Beauty Care Products",
+    "slug": "beauty-care-products",
+    "title": "Beauty Care Products",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 5,
+    "bgColor": "#A0E2E0",
+    "productBasesBg": {},
+    "bannerPages": [
+      "698c7d48876af417aaf4d4d6",
+      "698c7d58876af417aaf4d4dc",
+      "698c7d64876af417aaf4d4e2",
+      "698c7d6b876af417aaf4d4e8",
+      "698c7d78876af417aaf4d4ee"
+    ],
+    "productBases": [
+      "69a663a850f68158c5623580"
+    ],
+    "createdAt": "2026-03-28T07:35:10.866Z",
+    "updatedAt": "2026-03-28T07:36:18.526Z",
+    "__v": 0
+  },
+  {
+    "_id": "69c79e3f6071f00891f2cf01",
+    "name": "Today's Best Deal",
+    "slug": "todays-best-deal",
+    "title": "Today's Best Deal",
+    "description": "Up to 69% discount for limited time 🔥",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 2,
+    "bgColor": "#ffffff",
+    "productBasesBg": {},
+    "bannerPages": [
+      "698c7d64876af417aaf4d4e2"
+    ],
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T09:24:15.687Z",
+    "updatedAt": "2026-03-28T09:24:15.687Z",
+    "__v": 0
+  },
+  {
+    "_id": "69c7f513fbf545e1d0c9c95c",
+    "name": "Popular Groceries Weekly",
+    "slug": "popular-groceries-weekly",
+    "title": "Popular Groceries Weekly",
+    "description": "",
+    "banner": "",
+    "bannerImages": [],
+    "isActive": true,
+    "displayOrder": 3,
+    "bgColor": "#ffffff",
+    "productBasesBg": {},
+    "bannerPages": [
+      "698c7d64876af417aaf4d4e2"
+    ],
+    "productBases": [
+      "69a663b450f68158c5623585"
+    ],
+    "createdAt": "2026-03-28T15:34:43.387Z",
+    "updatedAt": "2026-03-28T15:34:43.387Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "698ccd38550319ac6ad9cec0",
+    "name": "Square Pharmaceuticals",
+    "createdAt": "2026-02-11T18:40:56.779Z",
+    "updatedAt": "2026-03-04T11:00:20.372Z",
+    "__v": 0,
+    "slug": "square-pharmaceuticals",
+    "image": "",
+    "productBase": "69a6639c50f68158c562357b"
+  },
+  {
+    "_id": "69a736a340d250514a154b4c",
+    "name": "Green Pharma",
+    "image": "",
+    "createdAt": "2026-03-03T19:29:39.466Z",
+    "updatedAt": "2026-03-04T11:00:14.159Z",
+    "slug": "green-pharma",
+    "__v": 0,
+    "productBase": "69a6639c50f68158c562357b"
+  },
+  {
+    "_id": "69a7373040d250514a154b5a",
+    "name": "Local Seller",
+    "image": "",
+    "createdAt": "2026-03-03T19:32:00.087Z",
+    "updatedAt": "2026-03-04T11:00:08.645Z",
+    "slug": "local-seller",
+    "__v": 0,
+    "productBase": "69a6639c50f68158c562357b"
+  },
+  {
+    "_id": "69a810e58b5e845a850ddd0b",
+    "name": "Spa Salon",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/spa-salon/brand_spa_salon_o7I1BqORB.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:00:53.236Z",
+    "updatedAt": "2026-03-04T11:00:53.236Z",
+    "slug": "spa-salon",
+    "__v": 0
+  },
+  {
+    "_id": "69a8111086aa1d75d191ce72",
+    "name": "Cosmetic",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/cosmetic/brand_cosmetic_sFQ_Opb-g.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:01:36.082Z",
+    "updatedAt": "2026-03-04T11:02:01.106Z",
+    "slug": "cosmetic",
+    "__v": 0
+  },
+  {
+    "_id": "69a8111f86aa1d75d191ce7a",
+    "name": "Beauty Spa",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/beauty-spa/brand_beauty_spa_5ik0qvDyq.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:01:51.010Z",
+    "updatedAt": "2026-03-04T11:01:51.010Z",
+    "slug": "beauty-spa",
+    "__v": 0
+  },
+  {
+    "_id": "69a8113e86aa1d75d191ce92",
+    "name": "Beauty Salon",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/beauty-salon/brand_beauty_salon_oYzqdGR6p.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:02:22.922Z",
+    "updatedAt": "2026-03-04T11:02:22.922Z",
+    "slug": "beauty-salon",
+    "__v": 0
+  },
+  {
+    "_id": "69a8115586aa1d75d191ce9a",
+    "name": "Beauty Boutique",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/beauty-boutique/brand_beauty_boutique_3qCDe2CY0.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:02:45.114Z",
+    "updatedAt": "2026-03-04T11:02:45.114Z",
+    "slug": "beauty-boutique",
+    "__v": 0
+  },
+  {
+    "_id": "69a8116786aa1d75d191cea2",
+    "name": "Nature Therapy",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/nature-therapy/brand_nature_therapy_ReghnD6rL.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "createdAt": "2026-03-04T11:03:03.902Z",
+    "updatedAt": "2026-03-04T11:03:03.902Z",
+    "slug": "nature-therapy",
+    "__v": 0
+  },
+  {
+    "_id": "69b87887905cf3604de7694f",
+    "name": "Merck International",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/merck-international/brand_merck_international_V7ru9ocFI.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:39:19.962Z",
+    "updatedAt": "2026-03-16T21:39:19.962Z",
+    "slug": "merck-international",
+    "__v": 0
+  },
+  {
+    "_id": "69b878c7905cf3604de76a3a",
+    "name": "Norton Healthcare",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/norton-healthcare/brand_norton_healthcare_QT19wThvT.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:40:23.890Z",
+    "updatedAt": "2026-03-16T21:40:23.890Z",
+    "slug": "norton-healthcare",
+    "__v": 0
+  },
+  {
+    "_id": "69b878df905cf3604de76a52",
+    "name": "Abbott International",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/abbott-international/brand_abbott_international_w0OJUu8uR.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:40:47.567Z",
+    "updatedAt": "2026-03-16T21:40:47.567Z",
+    "slug": "abbott-international",
+    "__v": 0
+  },
+  {
+    "_id": "69b878f7905cf3604de76a5c",
+    "name": "Davita kedney care",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/davita-kedney-care/brand_davita_kedney_care_gM0cHXvXf.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:41:11.405Z",
+    "updatedAt": "2026-03-16T21:41:11.405Z",
+    "slug": "davita-kedney-care",
+    "__v": 0
+  },
+  {
+    "_id": "69b87902905cf3604de76a66",
+    "name": "Merck International - 2",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/merck-international-2/brand_merck_international_-_2_1m6nRvkSL.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:41:22.938Z",
+    "updatedAt": "2026-03-16T21:41:22.938Z",
+    "slug": "merck-international-2",
+    "__v": 0
+  },
+  {
+    "_id": "69b8790f905cf3604de76a70",
+    "name": "Abbott International-2",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/abbott-international-2/brand_abbott_international-2_jrr7KqLTN.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:41:35.957Z",
+    "updatedAt": "2026-03-16T21:41:35.957Z",
+    "slug": "abbott-international-2",
+    "__v": 0
+  },
+  {
+    "_id": "69b87922905cf3604de76a7a",
+    "name": "Davita kedney care-2",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/davita-kedney-care-2/brand_davita_kedney_care-2_pRhPHBaJM.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:41:54.765Z",
+    "updatedAt": "2026-03-16T21:41:54.765Z",
+    "slug": "davita-kedney-care-2",
+    "__v": 0
+  },
+  {
+    "_id": "69b8792e905cf3604de76a84",
+    "name": "Norton Healthcare-2",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/norton-healthcare-2/brand_norton_healthcare-2_p52VzW_sZ.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:42:06.633Z",
+    "updatedAt": "2026-03-16T21:42:06.633Z",
+    "slug": "norton-healthcare-2",
+    "__v": 0
+  },
+  {
+    "_id": "69b87940905cf3604de76a8e",
+    "name": "Merck International-3",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/merck-international-3/brand_merck_international-3_FJ7mO0tY_.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:42:24.542Z",
+    "updatedAt": "2026-03-16T21:42:24.542Z",
+    "slug": "merck-international-3",
+    "__v": 0
+  },
+  {
+    "_id": "69b8794c905cf3604de76a98",
+    "name": "Davita kedney care-3",
+    "image": "https://ik.imagekit.io/bf62vomqy/sellzy/brands/davita-kedney-care-3/brand_davita_kedney_care-3_XYG_XuCNC.jpg",
+    "productBase": "69a663a850f68158c5623580",
+    "isFeatured": true,
+    "createdAt": "2026-03-16T21:42:36.821Z",
+    "updatedAt": "2026-03-16T21:42:36.821Z",
+    "slug": "davita-kedney-care-3",
+    "__v": 0
+  }
+]

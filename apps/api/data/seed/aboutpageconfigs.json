@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "69b068285f42e1aae03bf15f",
+    "title": "Empowering Better Health at Home",
+    "mission": "To make quality healthcare products accessible, affordable, and reliable for every household. We are committed to helping individuals and families take control of their health with ease, confidence, and care—right from the comfort of home.",
+    "vision": "To become a trusted name in home healthcare by simplifying the way people care for themselves and their loved ones—empowering healthier lives through innovation, compassion, and convenience.",
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years of Trusted Service",
+        "_id": "69b06887fa0af963aa9de83c"
+      },
+      {
+        "value": "1M",
+        "label": "Orders Delivered Safely",
+        "_id": "69b06887fa0af963aa9de83d"
+      },
+      {
+        "value": "10K+",
+        "label": "Verified 5-Star Reviews",
+        "_id": "69b06887fa0af963aa9de83e"
+      },
+      {
+        "value": "99%",
+        "label": "Customer Satisfaction Rate",
+        "_id": "69b06887fa0af963aa9de83f"
+      }
+    ],
+    "createdBy": "698a10c634894205d2072308",
+    "createdAt": "2026-03-10T18:51:20.733Z",
+    "updatedAt": "2026-03-10T18:52:55.311Z",
+    "__v": 3,
+    "updatedBy": "698a10c634894205d2072308",
+    "heroImage": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/heroImage_NAGswSCa5.jpg",
+    "heroImageSmall": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/heroImageSmall_vkcvLtQ02.png",
+    "features": [
+      {
+        "title": "Faster Free Delivery",
+        "description": "Experience the ultimate convenience with our Faster Free Delivery service—designed to bring your orders to your doorstep quickly and without any extra cost. Whether you’re ordering essentials or gifts, we make sure you get them faster than ever. Why You'll Love It:\n\nSay goodbye to long waits and shipping fees. With Faster Free Delivery, we’re raising the standard—fast, seamless, and 100% free.",
+        "bulletPoints": [
+          "Absolutely Free: No delivery fees, no hidden charges—just fast, reliable service.",
+          "Real-Time Tracking: Stay updated every step of the way with live order tracking.",
+          "Reliable Delivery Partners: We’ve partnered with trusted couriers to ensure your packages",
+          "Weekend & Evening Delivery: Get your items when it's most convenient for you."
+        ],
+        "imageOne": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-1-imageOne_TQk6rWbg_.png",
+        "imageTwo": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-1-imageTwo_rl2loQhcR.jpg",
+        "_id": "6ad5bfe3a5f733ca7075f87a"
+      },
+      {
+        "title": "Focus on Customer Satisfaction",
+        "description": "Experience the ultimate convenience with our Faster Free Delivery service—designed to bring your orders to your doorstep quickly and without any extra cost. Whether you’re ordering essentials or gifts, we make sure you get them faster than ever. Why You'll Love It:\n\nSay goodbye to long waits and shipping fees. With Faster Free Delivery, we’re raising the standard—fast, seamless, and 100% free.",
+        "bulletPoints": [
+          "Absolutely Free: No delivery fees, no hidden charges—just fast, reliable service.",
+          "Real-Time Tracking: Stay updated every step of the way with live order tracking.",
+          "Reliable Delivery Partners: We’ve partnered with trusted couriers to ensure your packages"
+        ],
+        "imageOne": "https://ik.imagekit.io/bf62vomqy/sellzy/about-page/feature-2-imageOne_W1osXOPhD.jpg",
+        "_id": "6ad5bfe3a5f733ca7075f87b"
+      }
+    ]
+  }
+]

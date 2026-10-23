@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "needSupport": "Haben Sie Fragen ?",
+    "callUs": "Rufen Sie uns an",
+    "topNav": {
+      "about": "Über uns",
+      "account": "Mein Konto",
+      "wishlist": "Wunschliste",
+      "compare": "Vergleichen",
+      "tracking": "Bestellverfolgung"
+    },
+    "promotion": {
+      "category": "Modekategorie",
+      "off": "25% RABATT",
+      "today": "Heute"
+    }
+  },
+  "SupportInfo": {
+    "freeShipping": {
+      "title": "Kostenloser Versand",
+      "description": "Kostenloser Versand für alle Bestellungen"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Antwort innerhalb von 24 Stunden"
+    },
+    "return": {
+      "title": "30 Tage Rückgaberecht",
+      "description": "Geld-zurück-Garantie"
+    },
+    "payment": {
+      "title": "Sichere Zahlung",
+      "description": "100% sichere Zahlung"
+    }
+  },
+  "OrderTracking": {
+    "title": "Bestellverfolgung",
+    "subtitle": "Verfolgen Sie Ihre Bestellung in Echtzeit",
+    "description": "Geben Sie Ihre Bestellnummer ein, um den aktuellen Status und detaillierte Tracking-Informationen zu Ihrer Sendung zu sehen.",
+    "orderIdLabel": "Bestellnummer",
+    "orderIdPlaceholder": "Geben Sie Ihre Bestellnummer ein",
+    "trackButton": "Bestellung verfolgen",
+    "tracking": "Wird verfolgt...",
+    "loginRequired": "Bitte melden Sie sich an, um Ihre Bestellungen zu verfolgen",
+    "loginButton": "Anmelden",
+    "noOrderId": "Bitte geben Sie eine Bestellnummer ein",
+    "orderNotFound": "Bestellung nicht gefunden oder Sie haben keine Berechtigung, sie anzuzeigen",
+    "errorFetching": "Bestelldetails konnten nicht abgerufen werden. Bitte versuchen Sie es erneut.",
+    "orderStatus": "Bestellstatus",
+    "orderId": "Bestellnummer",
+    "orderDate": "Bestelldatum",
+    "totalAmount": "Gesamtbetrag",
+    "paymentStatus": "Zahlungsstatus",
+    "paymentMethod": "Zahlungsmethode",
+    "items": "Artikel",
+    "shippingAddress": "Lieferadresse",
+    "timeline": "Zeitverlauf",
+    "statuses": {
+      "pending": "Ausstehend",
+      "address_confirmed": "Adresse bestätigt",
+      "confirmed": "Bestätigt",
+      "packed": "Verpackt",
+      "delivering": "In Zustellung",
+      "delivered": "Zugestellt",
+      "completed": "Abgeschlossen",
+      "cancelled": "Storniert"
+    },
+    "paymentStatuses": {
+      "pending": "Ausstehend",
+      "paid": "Bezahlt",
+      "failed": "Fehlgeschlagen",
+      "refunded": "Erstattet"
+    },
+    "recentOrders": "Ihre letzten Bestellungen",
+    "noRecentOrders": "Keine Bestellungen gefunden",
+    "viewDetails": "Details anzeigen",
+    "quantity": "Menge"
+  }
+}

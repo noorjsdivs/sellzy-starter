@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "needSupport": "Need Support ?",
+    "callUs": "Call Us",
+    "topNav": {
+      "about": "About us",
+      "account": "My Account",
+      "wishlist": "My Wishlist",
+      "compare": "Compare",
+      "tracking": "Order Tracking"
+    },
+    "promotion": {
+      "category": "Fashion Category",
+      "off": "25% OFF",
+      "today": "Today"
+    }
+  },
+  "SupportInfo": {
+    "freeShipping": {
+      "title": "Free Shipping",
+      "description": "Free shipping on all order"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Back in 24 hours"
+    },
+    "return": {
+      "title": "30 Days Return",
+      "description": "Money back guarantee"
+    },
+    "payment": {
+      "title": "Secure Payment",
+      "description": "100% secure payment"
+    }
+  },
+  "OrderTracking": {
+    "title": "Order Tracking",
+    "subtitle": "Track your order in real-time",
+    "description": "Enter your order ID to see the current status and detailed tracking information for your shipment.",
+    "orderIdLabel": "Order ID",
+    "orderIdPlaceholder": "Enter your order ID",
+    "trackButton": "Track Order",
+    "tracking": "Tracking...",
+    "loginRequired": "Please log in to track your orders",
+    "loginButton": "Log In",
+    "noOrderId": "Please enter an order ID",
+    "orderNotFound": "Order not found or you don't have permission to view it",
+    "errorFetching": "Failed to fetch order details. Please try again.",
+    "orderStatus": "Order Status",
+    "orderId": "Order ID",
+    "orderDate": "Order Date",
+    "totalAmount": "Total Amount",
+    "paymentStatus": "Payment Status",
+    "paymentMethod": "Payment Method",
+    "items": "Items",
+    "shippingAddress": "Shipping Address",
+    "timeline": "Timeline",
+    "statuses": {
+      "pending": "Pending",
+      "address_confirmed": "Address Confirmed",
+      "confirmed": "Confirmed",
+      "packed": "Packed",
+      "delivering": "Delivering",
+      "delivered": "Delivered",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "paymentStatuses": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "failed": "Failed",
+      "refunded": "Refunded"
+    },
+    "recentOrders": "Your Recent Orders",
+    "noRecentOrders": "No orders found",
+    "viewDetails": "View Details",
+    "quantity": "Qty"
+  }
+}

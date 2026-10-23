@@ -1,0 +1,33 @@
+{
+  "name": "@sellzy/api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "nodemon -e ts,js --exec tsx server.ts",
+    "build": "tsc || exit 0",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit",
+    "seed": "tsx scripts/importSeed.ts",
+    "export-seed": "tsx scripts/exportSeed.ts",
+    "check-types": "tsc --noEmit"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@eslint/js": "^10.0.1",
+    "dotenv": "^18.0.8",
+    "eslint": "^10.13.0",
+    "express": "^5.3.0",
+    "globals": "^17.13.0",
+    "typescript-eslint": "^8.71.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "nodemon": "^3.1.14",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "698c7d04876af417aaf4d4ba",
+    "title": "Hero Banner",
+    "slug": "hero-banner",
+    "createdAt": "2026-02-11T12:58:44.754Z",
+    "updatedAt": "2026-02-11T12:58:44.754Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c7d11876af417aaf4d4c0",
+    "title": "Category Banner",
+    "slug": "category-banner",
+    "createdAt": "2026-02-11T12:58:57.792Z",
+    "updatedAt": "2026-02-11T12:58:57.792Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c7d1b876af417aaf4d4c6",
+    "title": "Sale Banner",
+    "slug": "sale-banner",
+    "createdAt": "2026-02-11T12:59:07.811Z",
+    "updatedAt": "2026-02-11T12:59:07.811Z",
+    "__v": 0
+  },
+  {
+    "_id": "698c7d2a876af417aaf4d4cc",
+    "title": "Ads Banner",
+    "slug": "ads-banner",
+    "createdAt": "2026-02-11T12:59:22.390Z",
+    "updatedAt": "2026-02-11T12:59:22.390Z",
+    "__v": 0
+  }
+]
